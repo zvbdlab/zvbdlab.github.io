@@ -2,15 +2,15 @@
 utility functions for cite process and plugins
 """
 
-import subprocess
 import json
-import yaml
-from yaml.loader import SafeLoader
-from pathlib import Path
+import subprocess
 from datetime import date, datetime
-from rich import print
-from diskcache import Cache
+from pathlib import Path
 
+import yaml
+from diskcache import Cache
+from rich import print
+from yaml.loader import SafeLoader
 
 # cache for time-consuming network requests
 cache = Cache("./_cite/.cache")

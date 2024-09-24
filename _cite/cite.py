@@ -5,9 +5,9 @@ cite process to convert sources and metasources into full citations
 import traceback
 from importlib import import_module
 from pathlib import Path
+
 from dotenv import load_dotenv
 from util import *
-
 
 # load environment variables
 load_dotenv()
@@ -125,7 +125,7 @@ for index, source in enumerate(sources):
     log(f"Processing source {index + 1} of {len(sources)}, {label(source)}")
 
     # if explicitly flagged, remove/ignore entry
-    if get_safe(source, "remove", False) == True:
+    if get_safe(source, "remove", False) is True:
         continue
 
     # new citation data for source

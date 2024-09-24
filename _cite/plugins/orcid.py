@@ -1,7 +1,8 @@
 import json
 from urllib.request import Request, urlopen
-from util import *
+
 from manubot.cite.handlers import prefix_to_handler as manubot_prefixes
+from util import *
 
 
 def main(entry):
@@ -51,7 +52,7 @@ def main(entry):
             ids[0] if len(ids) > 0 else None,
         )
 
-        if _id == None:
+        if _id is None:
             continue
 
         # get id and id-type from response

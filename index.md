@@ -1,9 +1,7 @@
 ---
 ---
 
-# zvbdlabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
-
+# Website - ZVBD Lab
 
 {% include section.html %}
 

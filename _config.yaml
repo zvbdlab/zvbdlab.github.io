@@ -1,19 +1,18 @@
 # site properties and page defaults
-title: zvbdlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-subtitle: 
-description: 
+title: ZVBD Lab
+subtitle: Zoonotic and Vector-Borne Diseases Lab (a.k.a. Vieira Lab)
+description: Ticks make us tick
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@zvbdlabDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: zvbdlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: zvbdlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: zvbdlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: rvieira@charlotte.edu
+  orcid: 0000-0001-6613-0287
+  google-scholar: tu5MMHQAAAAJ
+  github: https://github.com/zvbdlab
+  linkedin: https://www.linkedin.com/in/rafael-vieira-8532b396
 
 ### jekyll settings
 

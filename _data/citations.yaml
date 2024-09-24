@@ -1,238 +1,2094 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title:
-    "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.actatropica.2024.107334
+  title: Hemoplasmas in wild rodents and marsupials from the Caatinga Biome, Brazil
   authors:
-    - Tim E Putman
-    - Kevin Schaper
-    - Nicolas Matentzoglu
-    - "Vincent\_P Rubinetti"
-    - "Faisal\_S Alquaddoomi"
-    - Corey Cox
-    - J Harry Caufield
-    - Glass Elsarboukh
-    - Sarah Gehrke
-    - Harshad Hegde
-    - "Justin\_T Reese"
-    - Ian Braun
-    - "Richard\_M Bruskiewich"
-    - Luca Cappelletti
-    - Seth Carbon
-    - "Anita\_R Caron"
-    - "Lauren\_E Chan"
-    - "Christopher\_G Chute"
-    - "Katherina\_G Cortes"
-    - "Vin\xEDcius De\_Souza"
-    - Tommaso Fontana
-    - "Nomi\_L Harris"
-    - "Emily\_L Hartley"
-    - Eric Hurwitz
-    - "Julius\_O B Jacobsen"
-    - Madan Krishnamurthy
-    - "Bryan\_J Laraway"
-    - "James\_A McLaughlin"
-    - "Julie\_A McMurry"
-    - "Sierra\_A T Moxon"
-    - "Kathleen\_R Mullen"
-    - "Shawn\_T O\u2019Neil"
-    - "Kent\_A Shefchek"
-    - Ray Stefancsik
-    - Sabrina Toro
-    - "Nicole\_A Vasilevsky"
-    - "Ramona\_L Walls"
-    - "Patricia\_L Whetzel"
-    - David Osumi-Sutherland
-    - Damian Smedley
-    - "Peter\_N Robinson"
-    - "Christopher\_J Mungall"
-    - "Melissa\_A Haendel"
-    - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: "2023-11-24"
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Paula Talita Torres-Santos
+  - Anna Maria da Cruz Ferreira Evaristo
+  - Josenilton Rodrigues Santos
+  - "Fl\xE1via Carolina Meira Collere"
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Luiz Cezar Machado Pereira
+  - Patricia Avello Nicola
+  - Rafael Felipe da Costa Vieira
+  - Mauricio Claudio Horta
+  publisher: Acta Tropica
+  date: '2024-10-01'
+  link: https://doi.org/g46bvr
+  orcid: 0000-0001-6613-0287
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.3390/ph17081014
+  title: In Vitro Evaluation of the Combinatorial Effect of Naringenin and Miltefosine
+    against Leishmania amazonensis
   authors:
-    - Richard J. Abdill
-    - Samantha P. Graham
-    - Vincent Rubinetti
-    - Frank W. Albert
-    - Casey S. Greene
-    - Sean Davis
-    - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: "2023-10-11"
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - "Vin\xEDcius Lopes Lessa"
+  - "Gustavo Gon\xE7alves"
+  - Beatriz Santos
+  - Victoria Cruz Cavalari
+  - Rafael Felipe da Costa Vieira
+  - Fabiano Borges Figueiredo
+  publisher: Pharmaceuticals
+  date: '2024-08-01'
+  link: https://doi.org/g46bv3
+  orcid: 0000-0001-6613-0287
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title:
-    "MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes"
+- id: doi:10.1016/j.onehlt.2023.100666
+  title: 'One Health in Somalia: Present status, opportunities, and challenges'
   authors:
-    - Ricardo Avila
-    - Vincent Rubinetti
-    - Xinghua Zhou
-    - Dongbo Hu
-    - Zhongchao Qian
-    - Marco Alvarado Cano
-    - Everaldo Rodolpho
-    - Ginger Tsueng
-    - Casey Greene
-    - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: "2023-04-18"
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Ahmed A. Hassan-Kadle
+  - Aamir M. Osman
+  - Abdalla M. Ibrahim
+  - Ahmed A. Mohamed
+  - Celso J.B. de Oliveira
+  - Rafael F.C. Vieira
+  publisher: One Health
+  date: '2024-06-01'
+  link: https://doi.org/g46bwb
+  orcid: 0000-0001-6613-0287
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title:
-    Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1111/zph.13158
+  title: <i>Bartonella</i> species in dromedaries and ruminants from Lower Shabelle
+    and Benadir regions, Somalia
   authors:
-    - Daniel S. Himmelstein
-    - Michael Zietz
-    - Vincent Rubinetti
-    - Kyle Kloster
-    - Benjamin J. Heil
-    - Faisal Alquaddoomi
-    - Dongbo Hu
-    - David N. Nicholson
-    - Yun Hao
-    - Blair D. Sullivan
-    - Michael W. Nagle
-    - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: "2023-01-07"
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Aamir M. Osman
+  - "Ahmed A. Hassan\u2010Kadle"
+  - Clara Morato Dias
+  - Abdalla M. Ibrahim
+  - "Fl\xE1via C. M. Collere"
+  - Mohamed A. Shair
+  - "Fabiano Montiani\u2010Ferreira"
+  - "Marcos R. Andr\xE9"
+  - Abdulkarim A. Yusuf
+  - "Th\xE1llitha S. W. J. Vieira"
+  - Rosangela Z. Machado
+  - Rafael F. C. Vieira
+  publisher: Zoonoses and Public Health
+  date: '2024-05-30'
+  link: https://doi.org/g46bwh
+  orcid: 0000-0001-6613-0287
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title:
-    Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1590/s1984-29612024010
+  title: Diversity of Glossinidae (Diptera) species in The Gambia in relation to vegetation
   authors:
-    - Daniel S Himmelstein
-    - Michael Zietz
-    - Vincent Rubinetti
-    - Kyle Kloster
-    - Benjamin J Heil
-    - Faisal Alquaddoomi
-    - Dongbo Hu
-    - David N Nicholson
-    - Yun Hao
-    - Blair D Sullivan
-    - Michael W Nagle
-    - Casey S Greene
-  publisher: GigaScience
-  date: "2022-12-28"
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Alpha Kargbo
+  - Mamudou Jallow
+  - Thallitha Samih Wischral Jayme Vieira
+  - Amien Isaac Amoutchi
+  - Herve Koukoua Koua
+  - Aamir Muse Osman
+  - Rafael Felipe da Costa Vieira
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2024-01-01'
+  link: https://doi.org/g46bwr
+  orcid: 0000-0001-6613-0287
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title:
-    "MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny"
+- id: doi:10.3390/pathogens13010023
+  title: Genomic Analysis of a Community-Acquired Methicillin-Resistant Staphylococcus
+    aureus Sequence Type 1 Associated with Caprine Mastitis
   authors:
-    - Jacob D Krol
-    - Joseph T Burke
-    - Samuel Z Chen
-    - Lo M Sosinski
-    - Faisal S Alquaddoomi
-    - Evan P Brenner
-    - Ethan P Wolfe
-    - Vincent P Rubinetti
-    - Shaddai Amolitos
-    - Kellen M Reason
-    - John B Johnston
-    - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: "2022-02-22"
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Priscylla C. Vasconcelos
+  - Elma L. Leite
+  - Mauro M. S. Saraiva
+  - Rafaela G. Ferrari
+  - Samuel P. Cibulski
+  - Nubia M. V. Silva
+  - Oliveiro C. Freitas Neto
+  - "Patr\xEDcia E. N. Givisiez"
+  - Rafael F. C. Vieira
+  - Celso J. B. Oliveira
+  publisher: Pathogens
+  date: '2023-12-26'
+  link: https://doi.org/g46bwz
+  orcid: 0000-0001-6613-0287
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title:
-    Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.14202/vetworld.2023.2200-2204
+  title: First report of Amblyomma sculptum (Amblyomma cajennense complex) in a Brazilian
+    state classified as a silent area for human rickettsiosis
   authors:
-    - Gregory P. Way
-    - Michael Zietz
-    - Vincent Rubinetti
-    - Daniel S. Himmelstein
-    - Casey S. Greene
-  publisher: Genome Biology
-  date: "2020-05-11"
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Bruna Costa Gama
+  - Thiago Fernandes Martins
+  - Marcelo Bahia Labruna
+  - Rafael Felipe Costa Vieira
+  - Jonatas Campos Almeida
+  publisher: Veterinary World
+  date: '2023-11-01'
+  link: https://doi.org/g46bw6
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgph.0002319
+  title: 'Assessment of drug-susceptible and multidrug-resistant tuberculosis (MDR-TB)
+    in the Central Region of Somalia: A 3-year retrospective study'
+  authors:
+  - Mohamed Abdelrahman Mohamed
+  - Omer Abdikarin Ali
+  - Aamir Muse Osman
+  - Mustapha Goni Abatcha
+  - Abdirahman Abdirizak Ahmed
+  - Ali Mohamed Ali
+  - Abdifatah Ahmed Dirie
+  - "Celso Jos\xE9 Bruno de Oliveira"
+  - Abdinasir Yusuf Osman
+  - Shu-Hua Wang
+  - Rafael F. C. Vieira
+  publisher: PLOS Global Public Health
+  date: '2023-09-07'
+  link: https://doi.org/g46bw9
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.14202/vetworld.2023.1829-1832
+  title: Indigestible foreign bodies in the forestomach of slaughtered goats in Mogadishu,
+    Somalia
+  authors:
+  - Mohamed A. Shair
+  - Ahmed A. Hassan-Kadle
+  - Aamir M. Osman
+  - Kaltumo M. Y. Ahmed
+  - Abdulkarim A. Yusuf
+  - Ivan R. Barros-Filho
+  - Rafael F. C. Vieira
+  publisher: Veterinary World
+  date: '2023-09-01'
+  link: https://doi.org/g46bxg
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.vprsr.2023.100921
+  title: Molecular detection of hemotropic Mycoplasma and Bartonella species in lice
+    from sheep and goats of Mexico
+  authors:
+  - "Gerardo G. Ballados-Gonz\xE1lez"
+  - "Jos\xE9 M. Mart\xEDnez-Hern\xE1ndez"
+  - "Perla B. Mart\xEDnez-Rodr\xEDguez"
+  - Jannete Gamboa-Prieto
+  - "Sa\xFAl Gonz\xE1lez-Guzm\xE1n"
+  - Vladimir Paredes-Cervantes
+  - Estefania Grostieta
+  - Ingeborg Becker
+  - "Mariel Aguilar-Dom\xEDnguez"
+  - Rafael F.C. Vieira
+  - Anabel Cruz-Romero
+  - "Sokani S\xE1nchez-Montes"
+  publisher: 'Veterinary Parasitology: Regional Studies and Reports'
+  date: '2023-09-01'
+  link: https://doi.org/g46bxp
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.vprsr.2023.100887
+  title: Molecular detection of Theileria annulata, Theileria mutans and Theileria
+    velifera but no evidence of Theileria parva infected or vaccinated cattle in Nigeria
+    despite extensive transboundary migrations
+  authors:
+  - Joshua Kamani
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Rafael Felipe da Costa Vieira
+  - Audu Shekaro
+  - Yaarit Nahum-Biala
+  - Toyin Olubade
+  - Moses Samuel Abasiama
+  - Umar A. Gajibo
+  - Laminu Bukar
+  - Mike Shand
+  - Shimon Harrus
+  - Gad Baneth
+  publisher: 'Veterinary Parasitology: Regional Studies and Reports'
+  date: '2023-06-01'
+  link: https://doi.org/g46bxx
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.14202/vetworld.2023.1266-1276
+  title: 'Suicide in veterinary medicine: A literature review'
+  authors:
+  - Carina Rodrigues da Silva
+  - "Ana Am\xE9lia Domingues Gomes"
+  - "Tha\xEDs Rabelo dos Santos-Doni"
+  - Alexandre Coutinho Antonelli
+  - Rafael Felipe da Costa Vieira
+  - Alexandre Redson Soares da Silva
+  publisher: Veterinary World
+  date: '2023-06-01'
+  link: https://doi.org/g46bx7
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.56242/globalhealth;;2023;3;10;1-7
+  title: "Diagn\xF3stico molecular de agentes parasit\xE1rios e coronav\xEDrus em\
+    \ gatos no Nordeste do Brasil."
+  authors:
+  - "Tain\xE3 Ramos Pesqueira"
+  - Gabriel Ferreira da Silva Martins
+  - Ila Ferreira Farias
+  - Anna Maria da Cruz Ferreira Evaristo
+  - "Felipe Silva Sento S\xE9"
+  - "Fl\xE1vio Ramos Bastos de Oliveira"
+  - "Th\xE1llitha Samih Wischral Jaime Vieira"
+  - "Fl\xE1via Carolina Meira Collere"
+  - Rafael Felipe da Costa Vieira
+  - "Paulo Eduardo Brand\xE3o"
+  - Mauricio Claudio Horta
+  publisher: Brazilian Journal of Global Health
+  date: '2023-02-27'
+  link: https://doi.org/g46bzc
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-023-29090-1
+  title: "Co-infection by multiple vector-borne agents in wild ring-tailed coatis\
+    \ (Nasua nasua) from Igua\xE7u National Park, southern Brazil"
+  authors:
+  - L. Perles
+  - M. F. Moraes
+  - M. Xavier da Silva
+  - R. F. C. Vieira
+  - R. Z. Machado
+  - E. G. Lux Hoppe
+  - "M. R. Andr\xE9"
+  publisher: Scientific Reports
+  date: '2023-02-01'
+  link: https://doi.org/g46bzj
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.actatropica.2022.106696
+  title: Hemoplasmas and ticks in cattle from Somalia
+  authors:
+  - Larissa D.R. Ferrari
+  - Ahmed A. Hassan-Kadle
+  - "Fl\xE1via C.M. Collere"
+  - Vanessa S. Coradi
+  - Abdalla M. Ibrahim
+  - Aamir M. Osman
+  - Mohamed A. Shair
+  - "Marcos R. Andr\xE9"
+  - "Th\xE1llitha S.W.J. Vieira"
+  - Rosangela Z. Machado
+  - Rafael F.C. Vieira
+  publisher: Acta Tropica
+  date: '2022-12-01'
+  link: https://doi.org/g46bzq
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.actatropica.2022.106697
+  title: First molecular detection of Mycoplasma ovis in horses from Brazil
+  authors:
+  - Monica T.A. Kakimori
+  - Luiz D. Barros
+  - "Fl\xE1via C.M. Collere"
+  - Larissa D.R. Ferrari
+  - Aldair de Matos
+  - Juliana I. Lucas
+  - Vanessa S. Coradi
+  - Anna C.B. Mongruel
+  - Daniel M. Aguiar
+  - Rosangela Z. Machado
+  - "Marcos R. Andr\xE9"
+  - "Th\xE1llitha S.W.J. Vieira"
+  - Rafael F.C. Vieira
+  publisher: Acta Tropica
+  date: '2023-01-01'
+  link: https://doi.org/g46bzw
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/vetsci9080443
+  title: "First Report of \u2018Candidatus Mycoplasma haematomacacae\u2019 in Laboratory-Kept\
+    \ Rhesus Monkeys (Macaca mulatta) Maintained in Rio de Janeiro, Brazil"
+  authors:
+  - Anna Claudia Baumel Mongruel
+  - "Andr\xE9 Tavares Somma"
+  - "Ana Cristina Ara\xFAjo Pinto"
+  - Carla de Freitas Campos
+  - "M\xF4nica Ingeborg Zuege Calado"
+  - Fabiano Montiani-Ferreira
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Rafael Felipe da Costa Vieira
+  publisher: Veterinary Sciences
+  date: '2022-08-19'
+  link: https://doi.org/g46bz4
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2022v43n2p883
+  title: "First report of Dipetalonema gracile in a captive Marcgrave\u2019s capuchin\
+    \ monkey (Sapajus flavius) in northeastern Brazil: Scientific communication"
+  authors:
+  - Ayodhya Cardoso Ramalho
+  - Rafael Felipe da Costa Vieira
+  - Max Bruno Magno Bacalhao
+  - Monica Tiemi Aline Kakimori
+  - "Th\xE1llitha Samih Wischral Jaime Vieira"
+  - Monalisa Valesca Soares de Farias Guerra
+  - Ricardo Barbosa de Lucena
+  - Jaqueline Bianque de Oliveira
+  - "Ricardo Rom\xE3o Guerra"
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2022-02-25'
+  link: https://doi.org/g46bz9
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2022v43n2p889
+  title: "Molecular screening of Bartonella in free-ranging capybaras (Hydrochoerus\
+    \ hydrochaeris) from Paran\xE1 State, Southern Brazil"
+  authors:
+  - "Nelson Jess\xE9 Rodrigues dos Santos"
+  - Renan Bressianini do Amaral
+  - "Luiz Ricardo Gon\xE7alves"
+  - "Rog\xE9rio Ribas Lange"
+  - Juan Carlos Moreno Duque
+  - "Fl\xE1via Carolina Meira Collere"
+  - Larissa Dantas Roeder Ferrari
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - "Marcos Rog\xE9rio Andr\xE9"
+  - Rafael Felipe da Costa Vieira
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2022-02-25'
+  link: https://doi.org/g46b2h
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3201/eid2802.210705
+  title: Novel Anaplasmataceae agents <i>Candidatus</i> Ehrlichia hydrochoerus and
+    <i>Anaplasma</i> spp. Infecting Capybaras, Brazil
+  authors:
+  - "Th\xE1llitha S.W.J. Vieira"
+  - "Fl\xE1via C.M. Collere"
+  - Larissa D.R. Ferrari
+  - Rafael A. Baggio
+  - "Rog\xE9rio R. Lange"
+  - Marcos V. Ferrari
+  - Juan C.M. Duque
+  - Gustavo S. Sanches
+  - "Nath\xE1lia A. Pereira"
+  - Daniel M. Aguiar
+  - Marcelo B. Labruna
+  - Rafael F.C. Vieira
+  publisher: Emerging Infectious Diseases
+  date: '2022-02-01'
+  link: https://doi.org/g46b2q
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2022/3379804
+  title: Knowledge, Attitude, and Practice of Livestock Owners and Livestock Assistants
+    towards African Trypanosomiasis Control in The Gambia
+  authors:
+  - Alpha Kargbo
+  - Edrisa Jawo
+  - Amien Isaac Amoutchi
+  - Herve Koua
+  - Rex Kuye
+  - Zainabou Dabre
+  - Abdoulie Bojang
+  - Rafael F. C. Vieira
+  publisher: Journal of Parasitology Research
+  date: '2022-01-24'
+  link: https://doi.org/g46b2v
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.11158/saa.27.3.5
+  title: "Retrospective and new records of hard ticks (Acari: Ixodidae) on wild animals\
+    \ from Paran\xE1 State, southern of Brazil"
+  authors:
+  - Jessica Damiana Marinho Valente
+  - Monica Tiemi Aline Kakimori
+  - Patricia Weckerlin Silva
+  - "M\xE1rcia Arzua"
+  - Darci Moraes Barros-Battesti
+  - "Andr\xE9 Saldanha"
+  - Rafaella Martini
+  - "Rog\xE9rio Ribas Lange"
+  - Thiago Fernandes Martins
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Marcelo Bahia Labruna
+  - Rafael Felipe Costa Vieira
+  publisher: Systematic and Applied Acarology
+  date: '2022-01-19'
+  link: https://doi.org/g46b2z
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2022v43n1p431
+  title: "Hemotropic mycoplasmas in bats from forest fragments, state of Paran\xE1\
+    , southern Brazil"
+  authors:
+  - "Fl\xE1via Carolina Meira Collere"
+  - Larissa Dantas Roeder Ferrari
+  - Ricardo Nascimento Drozino
+  - "J\xE9ssica Damiana Marinho Valente"
+  - Paula Fernanda Massini
+  - "Fl\xE1vio Haragushiku Otomura"
+  - Max Jean de Ornelas Toledo
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Rafael Felipe da Costa Vieira
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2022-01-10'
+  link: https://doi.org/g46b26
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/MICROORGANISMS10101955
+  title: "\u2018Candidatus Mycoplasma Haemoalbiventris\u2019 and Tick-Borne Pathogens\
+    \ in Black-Eared Opossum (Didelphis aurita) from Southeastern Brazil"
+  authors:
+  - "Andr\xE9s Maur\xEDcio Ortega Orozco"
+  - Lucas Drumond Bento
+  - Pollyanna Cordeiro Souto
+  - Fabricia Modolo Girardi
+  - "B\xE1rbara Cristina F\xE9lix Nogueira"
+  - Ricardo Seiti Yamatogi
+  - Artur Kanadani Campos
+  - Carolyn Cray
+  - Fabiano Montiani-Ferreira
+  - "Fl\xE1via Carolina Meira Collere"
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Rafael Felipe da Costa Vieira
+  - Leandro Abreu da Fonseca
+  publisher: Microorganisms
+  date: '2022-09-30'
+  link: https://doi.org/g46b29
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2022V43N6P2671
+  title: Parasitological, epidemiological, and hematological findings in Spix's yellow-toothed
+    cavy (Galea spixii Wangler, 1831) in the State of Paraiba, northeastern Brazil
+  authors:
+  - Carla Caroline Soares Gomes
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Vanessa dos Santos Coradi
+  - Samara da Costa Ribeiro Barboza
+  - Hugo Thyares Fonseca Nascimento Pereira da Silva
+  - Telma de Souza Lima
+  - Ricardo Barbosa de Lucena
+  - Rafael Felipe da Costa Vieira
+  - "Ricardo Rom\xE3o Guerra"
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2022-12-22'
+  link: https://doi.org/g46b3f
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S13071-022-05444-Y
+  title: Synovial fluid and radiographic evaluation of joints from dogs with visceral
+    leishmaniasis
+  authors:
+  - Alexandre R. S. Silva
+  - Ana A. D. Gomes
+  - Monally C. C. Aquino
+  - Breno F. M. Almeida
+  - "Val\xE9ria M. F. Lima"
+  - Paulo C. Ciarlini
+  - Luciana D. R. Pinoti
+  - Mary Marcondes
+  - Rafael F. C. Vieira
+  publisher: Parasites &amp; Vectors
+  date: '2022-09-08'
+  link: https://doi.org/g46b3n
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12917-021-02980-0
+  title: Rift Valley fever and Brucella spp. in ruminants, Somalia
+  authors:
+  - Ahmed A. Hassan-Kadle
+  - Aamir M. Osman
+  - Mohamed A. Shair
+  - Omar M. Abdi
+  - Abdulkarim A. Yusuf
+  - Abdalla M. Ibrahim
+  - Rafael F. C. Vieira
+  publisher: BMC Veterinary Research
+  date: '2021-08-21'
+  link: https://doi.org/gsqk4k
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5380/avs.v26i3.79382
+  title: SEROEPIDEMIOLOGICAL SURVEY OF CAPRINE ARTHRITIS ENCEPHALITIS VIRUS AND BLUETONGUE
+    VIRUS IN GOAT HERDS FROM PARAIBA STATE, NORTHEASTERN BRAZIL
+  authors:
+  - "Mayara Gon\xE7alves de Carvalho"
+  - Iago Carvalho Barbosa
+  - "J\xE9ssica Damiana Marinho Valente"
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Rafael Felipe da Costa Vieira
+  - Danilo Tancler Stipp
+  publisher: Archives of Veterinary Science
+  date: '2021-09-29'
+  link: https://doi.org/g46b3t
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/tbed.14311
+  title: "\u2018\n            <i>Candidatus</i>\n            Mycoplasma haematonasua\u2019\
+    \ and tick\u2010borne pathogens in ring\u2010tailed coatis (\n            <i>Nasua\
+    \ nasua</i>\n            Linnaeus, 1976) from the Igua\xE7u National Park, Paran\xE1\
+    \ State, southern Brazil"
+  authors:
+  - "Fl\xE1via C. M. Collere"
+  - Robson M. Delai
+  - Larissa D. R. Ferrari
+  - Leticia H. da Silva
+  - "Pedro L. C. Foga\xE7a"
+  - Apolonio N. Rodrigues
+  - "Daniela Dib Gon\xE7alves"
+  - Rafael A. Baggio
+  - Marcela F. D. Moraes
+  - Estevam G. Lux Hoppe
+  - "Marcos R. Andr\xE9"
+  - "Th\xE1llitha S. W. J. Vieira"
+  - Rafael F. C. Vieira
+  publisher: Transboundary and Emerging Diseases
+  date: '2021-09-12'
+  link: https://doi.org/g46b33
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.meegid.2021.104988
+  title: "\u2018Candidatus Mycoplasma haematohydrochoerus\u2019, a novel hemoplasma\
+    \ species in capybaras (Hydrochoerus hydrochaeris) from Brazil"
+  authors:
+  - Rafael F.C. Vieira
+  - Nelson J.R. Santos
+  - Jessica D.M. Valente
+  - Leonardo P. Santos
+  - "Rog\xE9rio R. Lange"
+  - Juan C.M. Duque
+  - Marcos V. Ferrari
+  - Ivan R. Barros Filho
+  - "Fl\xE1via C.M. Collere"
+  - Larissa D.R. Ferrari
+  - "Luiz R. Gon\xE7alves"
+  - Gustavo S. Sanches
+  - "Marcos R. Andr\xE9"
+  - "Th\xE1llitha S.W.J. Vieira"
+  publisher: Infection, Genetics and Evolution
+  date: '2021-09-01'
+  link: https://doi.org/g46b34
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2021v42n6p3527
+  title: Babesia vogeli in dogs from Rio Branco, South-west Amazonia, Brazil
+  authors:
+  - Mayara Marques Pereira Fernandes
+  - Marcelo Renan Serrate Rodrigues
+  - Jessica Damiana Marinho Valente
+  - Marcelli Pascoal Nogueira
+  - Rosany da Silva Santos Furtuoso
+  - Mirlane da Silva Santos
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Rafael Felipe da Costa Vieira
+  - Soraia Figueiredo de Souza
+  - "Patr\xEDcia Fernandes Nunes da Silva Malavazi"
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2021-08-12'
+  link: https://doi.org/g46b38
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/frph.2021.672885
+  title: Prevalence of Anti-Toxoplasma gondii and Anti-Brucella Spp. Antibodies in
+    Pregnant Women From Mogadishu, Somalia
+  authors:
+  - Abdulkarim A. Yusuf
+  - Ahmed A. Hassan-Kadle
+  - Abdalla M. Ibrahim
+  - Mohamed A. Hassan-Kadle
+  - Abdullahi M. Yasin
+  - Maha Khojaly
+  - "Jo\xE3o L. Garcia"
+  - Rafael F. C. Vieira
+  publisher: Frontiers in Reproductive Health
+  date: '2021-08-04'
+  link: https://doi.org/g46b4g
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/01647954.2020.1870554
+  title: 'Ticks (Parasitiformes: Ixodida) on new world wild primates in Brazil'
+  authors:
+  - Thiago F. Martins
+  - Rodrigo H. F. Teixeira
+  - Julio C. Souza Jr
+  - Hermes R. Luz
+  - "M\xF4nica M. Montenegro"
+  - Leandro Jerusalinsky
+  - Marina G. Bueno
+  - Valeria C. Onofrio
+  - Marinete Amorim
+  - "Gilberto S. Gaz\xEAta"
+  - Paula De J. Da Silva
+  - Karla Bitencourth
+  - Ana B. P. Borsoi
+  - Sandro Marques
+  - Marco O. Mattos Jr
+  - Leandra S. I. Hernandes
+  - Alessandra Scofild
+  - Rafael F. C. Vieira
+  - Richard C. Pacheco
+  - "Maur\xEDcio C. Horta"
+  - "Val\xE9ria P. da Silva"
+  - "Patr\xEDcia W. Silva"
+  - Claudia A. Igayara
+  - Thais C. Sanches
+  - Marcello S. Nardi
+  - Camile Lugarini
+  - Natasha L. Maia
+  - "Cl\xE1udio L. M. de Siqueira"
+  - Juliana M. Ferreira
+  - "Jo\xE3o F. Soares"
+  - Marcelo B. Labruna
+  publisher: International Journal of Acarology
+  date: '2021-02-17'
+  link: https://doi.org/g46b4m
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ttbdis.2020.101592
+  title: Anaplasma marginale in goats from a multispecies grazing system in northeastern
+    Brazil
+  authors:
+  - Iago C. Barbosa
+  - "Marcos R. Andr\xE9"
+  - Renan Bressianini do Amaral
+  - Jessica D.M. Valente
+  - Priscylla C. Vasconcelos
+  - Celso J.B. Oliveira
+  - Marcia Mariza Gomes Jusi
+  - Rosangela Z. Machado
+  - "Th\xE1llitha S.W.J. Vieira"
+  - Massaro W. Ueti
+  - Rafael F.C. Vieira
+  publisher: Ticks and Tick-borne Diseases
+  date: '2021-01-01'
+  link: https://doi.org/g46b4r
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s1984-29612021072
+  title: "\u2018Candidatus Mycoplasma haemoalbiventris\u2019 and tick-borne pathogens\
+    \ screening in white-eared opossums (Didelphis albiventris) from Curitiba and\
+    \ Foz do Igua\xE7u Cities, Paran\xE1 State, southern Brazil"
+  authors:
+  - Renata Prestes Antonangelo de Oliveira
+  - "Fl\xE1via Carolina Meira Collere"
+  - Larissa Dantas Roeder Ferrari
+  - Vanessa dos Santos Coradi
+  - "Nath\xE1lia de Albuquerque Soares"
+  - "Andr\xE9 de Souza Leandro"
+  - Wagner Fabiano de Oliveira
+  - "Sandro Roberto Galv\xE3o"
+  - Rosinei Kafka
+  - Robson Michael Delai
+  - Rafaella Martini
+  - "Andr\xE9 Saldanha"
+  - Leonardo Pereira dos Santos
+  - Zalmir Silvino Cubas
+  - "Rog\xE9rio Ribas Lange"
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Rafael Felipe da Costa Vieira
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2021-01-01'
+  link: https://doi.org/g46b4v
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.idairyj.2020.104827
+  title: Equipment contact surfaces as sources of Staphylococcus carrying enterotoxin-encoding
+    genes in goat milk dairy plants
+  authors:
+  - Candice M.C.G. De Leon
+  - Francisca G.C. Sousa
+  - Mauro M.S. Saraiva
+  - Patricia E.N. Givisiez
+  - "N\xFAbia M.V. Silva"
+  - Rafael F.C. Vieira
+  - Celso J.B. Oliveira
+  publisher: International Dairy Journal
+  date: '2020-12-01'
+  link: https://doi.org/g46b4z
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/s003118202000178x
+  title: Parasitological and molecular detection of <i>Trypanosoma</i> spp. in cattle,
+    goats and sheep in Somalia
+  authors:
+  - Ahmed A. Hassan-Kadle
+  - Abdalla M. Ibrahim
+  - Hamisi S. Nyingilili
+  - Abdulkarim A. Yusuf
+  - Rafael F. C. Vieira
+  publisher: Parasitology
+  date: '2020-09-21'
+  link: https://doi.org/g46b48
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ttbdis.2020.101510
+  title: "Records of ticks (Acari: Ixodidae) on humans and distribution of spotted-fever\
+    \ cases and its tick vectors in Paran\xE1 State, southern Brazil"
+  authors:
+  - Jessica D.M. Valente
+  - "Patr\xEDcia W. Silva"
+  - "M\xE1rcia Arzua"
+  - Darci M. Barros-Battesti
+  - Thiago F. Martins
+  - Aparecida M. Silva
+  - "Th\xE1llitha S.W.J. Vieira"
+  - Marcelo B. Labruna
+  - Rafael F.C. Vieira
+  publisher: Ticks and Tick-borne Diseases
+  date: '2020-11-01'
+  link: https://doi.org/g46b5c
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/tbed.13767
+  title: Genetic diversity of emerging hemotropic mycoplasmas in domestic pigs from
+    Brazil
+  authors:
+  - Karina Sonalio
+  - "L\xEDvia Perles"
+  - Igor Renan H. Gatto
+  - Renan B. Amaral
+  - Henrique M. S. Almeida
+  - "Jos\xE9 Vanderlei B. Galdeano"
+  - Rafael F. C. Vieira
+  - "Marcos R. Andr\xE9"
+  - Luis Guilherme Oliveira
+  publisher: Transboundary and Emerging Diseases
+  date: '2020-08-24'
+  link: https://doi.org/g46b5h
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/tbed.13801
+  title: "\u2018<i>Candidatus</i>Mycoplasma haemosphiggurus\u2019 a novel haemoplasma\
+    \ species in orange\u2010spined hairy dwarf porcupines (<i>Sphiggurus villosus</i>)\
+    \ from Southern Brazil"
+  authors:
+  - Jessica D. M. Valente
+  - "Andr\xE9 Saldanha"
+  - Rafaella Martini
+  - "Rog\xE9rio Ribas Lange"
+  - Rafael A. Baggio
+  - Thiago F. Martins
+  - Leonardo Pereira Santos
+  - Renato Silva Sousa
+  - "Th\xE1llitha S. W. J. Vieira"
+  - Rafael F. C. Vieira
+  publisher: Transboundary and Emerging Diseases
+  date: '2020-09-20'
+  link: https://doi.org/g46b5p
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/1040638720943880
+  title: Comparison of 2 ELISAs for detecting exposure to <i>Brucella ovis</i>
+  authors:
+  - Molly J. Elderbrook
+  - Brant A. Schumaker
+  - Massaro W. Ueti
+  - Meila Bastos de Almeida
+  - Thallitha S. W. J. Vieira
+  - Rafael F. C. Vieira
+  - Kerry S. Sondgeroth
+  publisher: Journal of Veterinary Diagnostic Investigation
+  date: '2020-08-04'
+  link: https://doi.org/g46b5v
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/tbed.13716
+  title: "\u2018\n            <i>Candidatus</i>\n            Mycoplasma haemoalbiventris\u2019\
+    , a novel hemoplasma species in white\u2010eared opossums (\n            <i>Didelphis\
+    \ albiventris</i>\n            ) from Brazil"
+  authors:
+  - Giane Helenita Pontarolo
+  - "Lu\xEDs Felipe K\xFChl"
+  - Daniela Pedrassani
+  - Monique Campos
+  - Fabiano Borges Figueiredo
+  - Jessica Damiana Marinho Valente
+  - "Luiz Ricardo Gon\xE7alves"
+  - "Marcos Rog\xE9rio Andr\xE9"
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Rafael Felipe da Costa Vieira
+  - Ivan Roque de Barros Filho
+  publisher: Transboundary and Emerging Diseases
+  date: '2020-07-20'
+  link: https://doi.org/g46b53
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/tbed.13390
+  title: Uncommon<i>Ehrlichia canis</i>infection associated with morulae in neutrophils
+    from naturally infected dogs in Brazil
+  authors:
+  - Daniel Moura Aguiar
+  - Fernanda Panseri Rodrigues
+  - "M\xE1rcio Garcia Ribeiro"
+  - Bruna Santos
+  - Livia Saab Muraro
+  - "Isis Indaiara Gon\xE7alves Granjeiro Taques"
+  - Amanda Noeli Silva Campos
+  - "Val\xE9ria Dutra"
+  - Luciano Nakazato
+  - Rafael Felipe Costa Vieira
+  - Regina Kiomi Takahira
+  publisher: Transboundary and Emerging Diseases
+  date: '2019-11-12'
+  link: https://doi.org/g46b57
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cimid.2020.101416
+  title: Hemotropic mycoplasmas (hemoplasmas) in free-ranging bats from Southern Brazil
+  authors:
+  - Leonilda Correia dos Santos
+  - Odilon Vidotto
+  - "Nelson Jess\xE9 Rodrigues dos Santos"
+  - Juliano Ribeiro
+  - Maysa Pellizzaro
+  - Andrea Pires dos Santos
+  - Amanda Haisi
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Ivan Roque de Barros Filho
+  - Michelle Pires Cubilla
+  - "Jo\xE3o Pessoa Araujo"
+  - Rafael Felipe da Costa Vieira
+  - Leila Sabrina Ullmann
+  - Alexander Welker Biondo
+  publisher: Comparative Immunology, Microbiology and Infectious Diseases
+  date: '2020-04-01'
+  link: https://doi.org/grcvr2
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/vbz.2018.2411
+  title: Molecular Detection of Dengue Virus in Mosquitoes as an Early Indicator to
+    Aid in the Prevention of Human Infection in Endemic Areas
+  authors:
+  - "Andr\xE9 de Souza Leandro"
+  - "Andr\xE9 da Silva Britto"
+  - Jean Avemir Rios
+  - "Sandro Roberto Galv\xE3o"
+  - Rosinei Kafka
+  - Wagner Fabiano de Oliveira
+  - Orestes Fecci Neto
+  - Isaac Silva
+  - Robson Michael Delai
+  - "Daniela Dib Gon\xE7alves"
+  - "Walfrido K\xFChl Svoboda"
+  - "A\xE7ucena Veleh Rivas"
+  - Renata Defante Lopes
+  - "Fl\xE1via Julyana Pina Trench"
+  - "Wagner Ant\xF4nio Chiba de Castro"
+  - Alessandra Cristiane Sibim
+  - Luiz Fernando de Oliveira Ribas
+  - Fernando Rodrigues Gois
+  - Rafael Felipe da Costa Vieira
+  - Alexander Welker Biondo
+  publisher: Vector-Borne and Zoonotic Diseases
+  date: '2020-01-01'
+  link: https://doi.org/g46b6j
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5380/avs.v15i5.77117
+  title: "DETEC\xC7\xC3O MOLECULAR DE HEMOPLASMAS EM BOVINOS E OVINOS EM SISTEMA DE\
+    \ CRIA\xC7\xC3O CONSORCIADA DO NORDESTE DO BRASIL \u2013 DADOS PRELIMINARES"
+  authors:
+  - "Fl\xE1via C. M. Collere"
+  - Larissa D. R. Ferrari
+  - Iago C. Barbosa
+  - Celso J. B. Oliveira
+  - "Th\xE1llitha S. W. J. Vieira"
+  - Rafael F. C. Vieira
+  publisher: Archives of Veterinary Science
+  date: '2020-12-22'
+  link: https://doi.org/g46b6p
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s1984-29612020062
+  title: Survey of vector-borne and nematode parasites involved in the etiology of
+    anemic syndrome in sheep from Southern Brazil
+  authors:
+  - Anna Claudia Baumel Mongruel
+  - Viviane Campos Spanhol
+  - Jessica Damiana Marinho Valente
+  - "Petr\xF4nio Pinheiro Porto"
+  - Liza Ogawa
+  - "Fl\xE1vio Haragushiku Otomura"
+  - Ellen de Souza Marquez
+  - "Marcos Rog\xE9rio Andr\xE9"
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Rafael Felipe da Costa Vieira
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2020-01-01'
+  link: https://doi.org/g46b6v
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31864389
+  title: Parasitological, serological and molecular survey of camel trypanosomiasis
+    in Somalia.
+  authors:
+  - Ahmed A Hassan-Kadle
+  - Abdalla M Ibrahim
+  - Hamisi S Nyingilili
+  - Abdulkarim A Yusuf
+  - "Th\xE1llitha S W J Vieira"
+  - Rafael F C Vieira
+  publisher: Parasites & vectors
+  date: '2019-12-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31864389
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s1984-29612019058
+  title: Detection of Hemotropic Mycoplasma sp. in white-eared opossums (Didelphis
+    albiventris) from Southern Brazil
+  authors:
+  - Paula Fernanda Massini
+  - Ricardo Nascimento Drozino
+  - "Fl\xE1vio Haragushiku Otomura"
+  - Anna Claudia Baumel Mongruel
+  - Jessica Damiana Marinho Valente
+  - Max Jean de Ornelas Toledo
+  - Thiago Fernandes Martins
+  - Odilon Vidotto
+  - "Th\xE1llitha Samih Wischral Jaime Vieira"
+  - Rafael Felipe da Costa Vieira
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2019-12-01'
+  link: https://doi.org/g46b63
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.vetpar.2019.08.008
+  title: "Tick-borne pathogens in carthorses from Foz do Igua\xE7u City, Paran\xE1\
+    \ State, southern Brazil: A tri-border area of Brazil, Paraguay and Argentina"
+  authors:
+  - Jessica D.M. Valente
+  - Anna C.B. Mongruel
+  - Carolina A.L. Machado
+  - Luciana Chiyo
+  - Andre S. Leandro
+  - "Andr\xE9 S. Britto"
+  - Thiago F. Martins
+  - Ivan R. Barros-Filho
+  - Alexander W. Biondo
+  - "Jo\xE3o H. Perotta"
+  - Amanda N.S. Campos
+  - Odilon Vidotto
+  - Marcelo B. Labruna
+  - Daniel M. Aguiar
+  - "Th\xE1llitha S.W.J. Vieira"
+  - Rafael F.C. Vieira
+  publisher: Veterinary Parasitology
+  date: '2019-09-01'
+  link: https://doi.org/g46b67
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22456/1679-9216.95720
+  title: Comparison of Three Protocols to Preserve Leptospira spp. in Cat Urine for
+    Efficient DNA Extraction and PCR Amplification
+  authors:
+  - Carolina Trochmann Cordeiro
+  - "J\xE9ssica Damiana Marinho Valente"
+  - Leonardo Gaspareto Dos Santos
+  - Rafael Felipe Da Costa Vieira
+  - "Th\xE1litha Samih Wischral Jayme Vieira"
+  - Simone Tostes De Oliveira Stedile
+  publisher: Acta Scientiae Veterinariae
+  date: '2019-08-27'
+  link: https://doi.org/g46b7d
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5380/avs.v24i3.59357
+  title: "EPIDEMIOLOGICAL CHARACTERIZATION OF PORCINE TOXOPLASMOSIS IN THE \u201C\
+    ALTO SERT\xC3O\u201D REGION OF SERGIPE, NORTHEASTERN BRAZIL"
+  authors:
+  - "Jos\xE9 Eduardo Marques Silva"
+  - "Glenda L\xEDdice de Oliveira Cortez Marinho"
+  - "M\xE1rcia Mariza Gomes Jusi"
+  - "Jos\xE9 Givanildo Da Silva"
+  - Iago Carvalho Barbosa
+  - Sergio Santos de Azevedo
+  - Rinaldo Aparecido Mota
+  - Rafael Felipe Da Costa Vieira
+  - Danilo Tancler Stipp
+  publisher: Archives of Veterinary Science
+  date: '2019-09-30'
+  link: https://doi.org/g46b7j
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5380/avs.v24i4.64526
+  title: "INVESTIGA\xC7\xC3O DO CONHECIMENTO DE PESSOAS INFECTADAS POR Leptospira\
+    \ spp. E DA SOROPREVAL\xCANCIA, LEPTOSPIR\xDARIA E LEPTOSPIREMIA DE SEUS C\xC3\
+    ES CONTACTANTES"
+  authors:
+  - Leonardo Gaspareto Dos Santos
+  - Carolina Trochmann Cordeiro
+  - Rafael Felipe Da Costa Vieira
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Simone Tostes Oliveira Stedile
+  publisher: Archives of Veterinary Science
+  date: '2019-12-31'
+  link: https://doi.org/g46b7q
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13071-018-2716-9
+  title: Infection by Mycoplasma spp., feline immunodeficiency virus and feline leukemia
+    virus in cats from an area endemic for visceral leishmaniasis
+  authors:
+  - Mary Marcondes
+  - Karina Y. Hirata
+  - Juliana P. Vides
+  - Ludmila S. V. Sobrinho
+  - Jaqueline S. Azevedo
+  - "Th\xE1llitha S. W. J. Vieira"
+  - Rafael F. C. Vieira
+  publisher: Parasites &amp; Vectors
+  date: '2018-03-20'
+  link: https://doi.org/g46b7t
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s1984-296120180075
+  title: "Theileria sp. in water buffaloes from Maranh\xE3o State, northeastern Brazil"
+  authors:
+  - Hugo Luca Abate
+  - "Nelson Jess\xE9 Rodrigues dos Santos"
+  - Danilo Rodrigues Barros Brito
+  - Jessica Damiana Marinho Valente
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - "Jo\xE3o Luis Garcia"
+  - Rafael Felipe da Costa Vieira
+  - Odilon Vidotto
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2018-11-08'
+  link: https://doi.org/g46b7z
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0202140
+  title: First report of Anaplasma marginale infection in goats, Brazil
+  authors:
+  - Nayara B. da Silva
+  - Naomi S. Taus
+  - Wendell C. Johnson
+  - Anabela Mira
+  - Leonhard Schnittger
+  - Jessica D. M. Valente
+  - Odilon Vidotto
+  - Hayley E. Masterson
+  - "Th\xE1llitha S. W. J. Vieira"
+  - Massaro W. Ueti
+  - Rafael F. C. Vieira
+  publisher: PLOS ONE
+  date: '2018-08-13'
+  link: https://doi.org/gd3gx8
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13104-018-3638-5
+  title: First molecular screening of Plasmodium species in ungulates from Southern
+    Brazil
+  authors:
+  - Leonilda Correia dos Santos
+  - "Lilian de Oliveira Guimar\xE3es"
+  - Ana Laura Grazziotin
+  - Wanderlei de Morais
+  - Zalmir Silvino Cubas
+  - "Marcos Jos\xE9 de Oliveira"
+  - Rafael Felipe da Costa Vieira
+  - Alexander Welker Biondo
+  - Karin Kirchgatter
+  publisher: BMC Research Notes
+  date: '2018-07-31'
+  link: https://doi.org/g46b79
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3201/eid2405.172076
+  title: Potentially Same Novel <i>Ehrlichia</i> Species in Horses in Nicaragua and
+    Brazil
+  authors:
+  - "Th\xE1llitha S.W.J. Vieira"
+  - Barbara A. Qurollo
+  - Anna C.B. Mongruel
+  - Rafael A. Baggio
+  - Odilon Vidotto
+  - Edward B. Breitschwerdt
+  - Rafael F.C. Vieira
+  publisher: Emerging Infectious Diseases
+  date: '2018-05-01'
+  link: https://doi.org/g46b8d
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cimid.2017.12.003
+  title: Hemotropic mycoplasmas infection in water buffaloes (Bubalus bubalis) from
+    northeastern Brazil
+  authors:
+  - Nelson J.R. Santos
+  - Danilo R.B. Brito
+  - Hugo L. Abate
+  - "Son\xE1lia F. Paix\xE3o"
+  - Eduardo D.S. Soares
+  - "Th\xE1llitha S.W.J. Vieira"
+  - "Jo\xE3o L. Garcia"
+  - Rafael F.C. Vieira
+  - Odilon Vidotto
+  publisher: Comparative Immunology, Microbiology and Infectious Diseases
+  date: '2018-02-01'
+  link: https://doi.org/gc4vwd
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/1678-4162-9453
+  title: "Seroepidemiology of Neospora caninum among goats (Capra hircus) in the state\
+    \ of Para\xEDba, northeastern Brazil"
+  authors:
+  - B.M.A. Braz
+  - J.D.M. Valente
+  - E.M.C. Villalobos
+  - M.C.C.S.H. Lara
+  - C.A.L. Machado
+  - I.C. Barbosa
+  - V.S.P. Melo
+  - D.T. Stipp
+  - I.R. Barros-Filho
+  - A.W. Biondo
+  - T.S.W.J. Vieira
+  - R.F.C. Vieira
+  publisher: "Arquivo Brasileiro de Medicina Veterin\xE1ria e Zootecnia"
+  date: '2018-01-01'
+  link: https://doi.org/g46b8n
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cimid.2017.06.004
+  title: Microscopic and molecular identification of hemotropic mycoplasmas in South
+    American coatis (Nasua nasua)
+  authors:
+  - Michelle P. Cubilla
+  - Leonilda C. Santos
+  - Wanderlei de Moraes
+  - Zalmir S. Cubas
+  - Christian M. Leutenegger
+  - Marko Estrada
+  - LeAnn L. Lindsay
+  - Edvaldo S. Trindade
+  - "C\xE9lia Regina C. Franco"
+  - Rafael F.C. Vieira
+  - Alexander W. Biondo
+  - Jane E. Sykes
+  publisher: Comparative Immunology, Microbiology and Infectious Diseases
+  date: '2017-08-01'
+  link: https://doi.org/g4hdp2
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.14202/vetworld.2017.924-926
+  title: Molecular screening for hemotropic mycoplasmas in captive Barbary sheep (Ammotragus
+    lervia) in southern Brazil
+  authors:
+  - Leonilda C. Santos
+  - Odilon Vidotto
+  - Vivien M. Morikawa
+  - Nelson J. R. Santos
+  - Thallitha S. W. J. Vieira
+  - Ivan R. Barros Filho
+  - Rafael F. C. Vieira
+  - Alexander W. Biondo
+  publisher: Veterinary World
+  date: '2017-08-01'
+  link: https://doi.org/g46b8z
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cimid.2017.05.002
+  title: Occurrence of hemotropic mycoplasmas in non-human primates ( Alouatta caraya,
+    Sapajus nigritus and Callithrix jacchus ) of southern Brazil
+  authors:
+  - Michelle P. Cubilla
+  - Leonilda C. Santos
+  - Wanderlei de Moraes
+  - Zalmir S. Cubas
+  - Christian M. Leutenegger
+  - Marko Estrada
+  - Rafael F.C. Vieira
+  - Maurilio J. Soares
+  - LeAnn L. Lindsay
+  - Jane E. Sykes
+  - Alexander W. Biondo
+  publisher: Comparative Immunology, Microbiology and Infectious Diseases
+  date: '2017-06-01'
+  link: https://doi.org/g46b83
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cimid.2017.03.003
+  title: Mycoplasma sp. infection in captive Marcgrave's capuchin monkeys ( Sapajus
+    flavius )
+  authors:
+  - Ayodhya C. Ramalho
+  - Ricardo R. Guerra
+  - Anna C.B. Mongruel
+  - Odilon Vidotto
+  - Ricardo B. Lucena
+  - Monalisa V.S.F. Guerra
+  - "Th\xE1llitha S.W.J. Vieira"
+  - Rafael F.C. Vieira
+  publisher: Comparative Immunology, Microbiology and Infectious Diseases
+  date: '2017-04-01'
+  link: https://doi.org/gbqws5
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/0037-8682-0315-2016
+  title: Serosurvey of anti- Leptospira sp. and anti- Toxoplasma gondii antibodies
+    in capybaras and collared and white-lipped peccaries
+  authors:
+  - Leila Sabrina Ullmann
+  - "Mara L\xFAcia Gravinatti"
+  - Ricardo Seiti Yamatogi
+  - Leonilda Correa dos Santos
+  - Wanderlei de Moraes
+  - Zalmir Silvino Cubas
+  - Lucilene Granuzzio Camossi
+  - Ivan Roque de Barros Filho
+  - Helio Langoni
+  - Rafael Felipe da Costa Vieira
+  - Alexander Welker Biondo
+  publisher: Revista da Sociedade Brasileira de Medicina Tropical
+  date: '2017-03-01'
+  link: https://doi.org/gbg8j5
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4314/ovj.v7i1.7
+  title: Survey of spatial distribution of vector-borne disease in neighborhood dogs
+    in southern Brazil
+  authors:
+  - Caroline Constantino
+  - Edson Ferraz Evaristo De Paula
+  - "Ana P\xE9rola Drulla Brand\xE3o"
+  - Fernando Ferreira
+  - Rafael Felipe da Costa Vieira
+  - Alexander Welker Biondo
+  publisher: Open Veterinary Journal
+  date: '2017-03-13'
+  link: https://doi.org/f9v3nx
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1515/ap-2017-0028
+  title: Serosurvey of anti-Toxoplasma gondii antibodies in sport horses from Paraiba
+    state, Northeastern Brazil
+  authors:
+  - Jonatas C. Almeida
+  - Odilon Vidotto
+  - Edlainne P. Ferreira
+  - Luana P.S. Ribeiro
+  - Anna C.B. Mongruel
+  - "Th\xE1llitha S.W.J. Vieira"
+  - Roberta L. Freire
+  - Rinaldo A. Mota
+  - Rafael F.C. Vieira
+  publisher: Acta Parasitologica
+  date: '2017-01-01'
+  link: https://doi.org/f9m35z
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5380/avs.v22i4.56651
+  title: "ANTICORPOS ANTI-Leptospira spp. E LEPTOSPIR\xDARIA EM GATOS NA REGI\xC3\
+    O METROPOLITANA DE CURITIBA/PR-BRASIL"
+  authors:
+  - Carolina Trochmann Cordeiro
+  - Simone Tostes de Oliveira
+  - Rafael Felipe da Costa Vieira
+  publisher: Archives of Veterinary Science
+  date: '2017-12-22'
+  link: https://doi.org/g46b9p
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5380/avs.v22i4.56936
+  title: MOLECULAR DETECTION OF RANGELIA VITALII IN A DOG FROM THE CURITIBA METROPOLITAN
+    REGION, PARANA STATE, SOUTHERN BRAZIL
+  authors:
+  - Anna C.B. Mongruel
+  - Simone Tostes de Oileira Stedile
+  - Marlos G Sousa
+  - Jessica DM Valente
+  - Iago C Barbosa
+  - Viviane C Spanhol
+  - Amanda Sezyshta
+  - Luis F.S. Weber
+  - "Th\xE1llitha S.W.J. Vieira"
+  - Rafael Felipe da Costa Vieira
+  publisher: Archives of Veterinary Science
+  date: '2017-12-22'
+  link: https://doi.org/g46b9v
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cimid.2017.08.004
+  title: Mycoplasma ovis infection in goat farms from northeastern Brazil
+  authors:
+  - Carolina A.L. Machado
+  - Odilon Vidotto
+  - Francisco O. Conrado
+  - Nelson J.R. Santos
+  - Jessica D.M. Valente
+  - Iago C. Barbosa
+  - "Patr\xEDcia W.S. Trindade"
+  - "Jo\xE3o L. Garcia"
+  - Alexander W. Biondo
+  - "Th\xE1llitha S.W.J. Vieira"
+  - Rafael F.C. Vieira
+  publisher: Comparative Immunology, Microbiology and Infectious Diseases
+  date: '2017-12-01'
+  link: https://doi.org/gcmkxq
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cimid.2016.07.002
+  title: Ehrlichia sp. infection in carthorses of low-income owners, Southern Brazil
+  authors:
+  - "Th\xE1llitha S. Vieira"
+  - Rafael F. Vieira
+  - Felipe S. Krawczak
+  - Herbert S. Soares
+  - "Ana M. Guimar\xE3es"
+  - Ivan R. Barros-Filho
+  - Mary Marcondes
+  - Marcelo B. Labruna
+  - Alexander W. Biondo
+  - Odilon Vidotto
+  publisher: Comparative Immunology, Microbiology and Infectious Diseases
+  date: '2016-10-01'
+  link: https://doi.org/g46b93
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s1984-29612016051
+  title: Risk factors for Toxoplasma gondii infection in sheep and cattle from Fernando
+    de Noronha Island, Brazil
+  authors:
+  - "Fernando Jorge Rodrigues Magalh\xE3es"
+  - "M\xFCller Ribeiro-Andrade"
+  - "Adrianne Mota de Alc\xE2ntara"
+  - "Jos\xE9 Wilton Pinheiro J\xFAnior"
+  - "Maria Jos\xE9 de Sena"
+  - "Wagnner Jos\xE9 Nascimento Porto"
+  - Rafael Felipe da Costa Vieira
+  - Rinaldo Aparecido Mota
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2016-08-25'
+  link: https://doi.org/g46b97
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cimid.2016.06.004
+  title: Serological and molecular detection of Theileria equi in sport horses of
+    northeastern Brazil
+  authors:
+  - Edlainne P. Ferreira
+  - Odilon Vidotto
+  - Jonatas C. Almeida
+  - Luana P.S. Ribeiro
+  - Marcos V. Borges
+  - Walter H.C. Pequeno
+  - Danilo T. Stipp
+  - Celso J.B. de Oliveira
+  - Alexander W. Biondo
+  - "Th\xE1llitha S.W.J. Vieira"
+  - Rafael F.C. Vieira
+  publisher: Comparative Immunology, Microbiology and Infectious Diseases
+  date: '2016-08-01'
+  link: https://doi.org/f8xs8t
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.vetpar.2016.05.023
+  title: Atypical Toxoplasma gondii genotype in feral cats from the Fernando de Noronha
+    Island, northeastern Brazil
+  authors:
+  - R.P.B. Melo
+  - J.C. Almeida
+  - D.C.V. Lima
+  - C.M. Pedrosa
+  - "F.J.R. Magalh\xE3es"
+  - "A.M. Alc\xE2ntara"
+  - L.D. Barros
+  - R.F.C. Vieira
+  - J.L. Garcia
+  - R.A. Mota
+  publisher: Veterinary Parasitology
+  date: '2016-07-01'
+  link: https://doi.org/g46cbg
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1645/15-821
+  title: Detection of<i>Ehrlichia canis, Babesia vogeli</i>, and<i>Toxoplasma gondii</i>DNA
+    in the Brain of Dogs Naturally Infected with<i>Leishmania infantum</i>
+  authors:
+  - Cinthya B. Cardinot
+  - "Jos\xE9 E. S. Silva"
+  - Ricardo S. Yamatogi
+  - "C\xE1ris M. Nunes"
+  - Alexander W. Biondo
+  - Rafael F. C. Vieira
+  - "Jo\xE3o P. Araujo Junior"
+  - Mary Marcondes
+  publisher: Journal of Parasitology
+  date: '2016-04-01'
+  link: https://doi.org/g46cbp
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2016v37n6p4167
+  title: PCR and qPCR for detection of Porcine Circovirus type 2 (PCV2) in captive
+    white-lipped (Tayassu pecari) and collared (Tayassu tajacu) peccaries from Southern
+    Brazil
+  authors:
+  - Leila Sabrina Ullmann
+  - Mara Lucia Gravinatti
+  - Ricardo Seiti Yamatogi
+  - Leonilda Correa dos Santos
+  - "Ta\xEDs Fukuta da Cruz"
+  - Wanderlei De Moraes
+  - Zalmir Silvino Cubas
+  - Ivan Roque de Barros Filho
+  - Odilon Vidotto
+  - "Jo\xE3o Pessoa Ara\xFAjo Junior"
+  - Rafael Felipe da Costa Vieira
+  - Alexander Welker Biondo
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2016-12-14'
+  link: https://doi.org/g46cbt
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s1984-29612016062
+  title: "Serosurvey for Leishmania spp., Toxoplasma gondii, Trypanosoma cruzi and\
+    \ Neospora caninum in neighborhood dogs in Curitiba-Paran\xE1, Brazil"
+  authors:
+  - Caroline Constantino
+  - Maysa Pellizzaro
+  - Edson Ferraz Evaristo de Paula
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - "Ana P\xE9rola Drulla Brand\xE3o"
+  - Fernando Ferreira
+  - Rafael Felipe da Costa Vieira
+  - Helio Langoni
+  - Alexander Welker Biondo
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2016-12-01'
+  link: https://doi.org/g46cbv
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s1984-29612016085
+  title: Serosurvey of Borrelia in dogs, horses, and humans exposed to ticks in a
+    rural settlement of southern Brazil
+  authors:
+  - Denise Amaral Gomes Nascimento
+  - Rafael Felipe da Costa Vieira
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Roberta dos Santos Toledo
+  - Katia Tamekuni
+  - "Nelson Jess\xE9 Rodrigues dos Santos"
+  - "Daniela Dibb Gon\xE7alves"
+  - "Maria Lu\xEDsa Vieira"
+  - Alexander Welker Biondo
+  - Odilon Vidotto
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2016-12-08'
+  link: https://doi.org/gpgwr4
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s0036-46652015000400014
+  title: MOLECULAR INVESTIGATION OF HEMOTROPIC MYCOPLASMAS IN HUMAN BEINGS, DOGS AND
+    HORSES IN A RURAL SETTLEMENT IN SOUTHERN BRAZIL
+  authors:
+  - Rafael Felipe da Costa VIEIRA
+  - Odilon VIDOTTO
+  - "Th\xE1llitha Samih Wischral Jayme VIEIRA"
+  - "Ana M\xE1rcia S\xE1 GUIMARAES"
+  - Andrea Pires dos SANTOS
+  - "Na\xEDla Cannes NASCIMENTO"
+  - Nelson Jesse Rodrigues dos SANTOS
+  - Thiago Fernandes MARTINS
+  - Marcelo Bahia LABRUNA
+  - Mary MARCONDES
+  - Alexander Welker BIONDO
+  - Joanne Belle MESSICK
+  publisher: "Revista do Instituto de Medicina Tropical de S\xE3o Paulo"
+  date: '2015-08-01'
+  link: https://doi.org/g46cb8
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2015v36n1p291
+  title: Use of pan-hemoplasma PCR for screening horses highly exposed to tick bites
+    from southern Brazil
+  authors:
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Odilon Vidotto
+  - "Ana M\xE1rcia S\xE1 Guimar\xE3es"
+  - Andrea Pires dos Santos
+  - "Na\xEDla Cannes do Nascimento"
+  - "Mariane Ang\xE9lica Pommerening Finger"
+  - Ivan Roque Barros-Filho
+  - Peterson Triches Dornbusch
+  - Alexander Welker Biondo
+  - Rafael Felipe da Costa Vieira
+  - Joanne Belle Messick
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2015-02-27'
+  link: https://doi.org/g46ccf
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2015v36n6supl2p4361
+  title: Comparative study of two serological tests for detection of anti-Theileria
+    equi antibodies in horses
+  authors:
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Jessica Damiana Marinho Valente
+  - Nayara Bezerra Silva
+  - "Patr\xEDcia Mara Lopes Sicupira"
+  - Ivan Roque Barros-Filho
+  - Alexander Welker Biondo
+  - Rafael Felipe da Costa Vieira
+  - Odilon Vidotto
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2015-12-16'
+  link: https://doi.org/g46ccj
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2015v36n6supl2p4357
+  title: Equine infectious anemia in carthorses from urban areas of southern Brazil
+  authors:
+  - "Jo\xE3o Henrique Perotta"
+  - Eliana Monteforte Cassaro Villalobos
+  - Maria do Carmo C. de S. Hunold Lara
+  - Elenice Maria Sequetin Cunha
+  - Ivan Deconto
+  - Peterson Triches Dornbusch
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - "Jos\xE9 Edivaldo Bonacim"
+  - Rafael Felipe da Costa Vieira
+  - Alexander Welker Biondo
+  - Ivan Roque Barros Filho
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2015-12-16'
+  link: https://doi.org/g46ccm
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/0037-8682-1723-2013
+  title: Serological cross-reactivity of Trypanosoma cruzi, Ehrlichia canis, Toxoplasma
+    gondii, Neospora caninum and Babesia canis to Leishmania infantum chagasi tests
+    in dogs
+  authors:
+  - "Maur\xEDcio Franco Zanette"
+  - "Val\xE9ria Mar\xE7al Felix de Lima"
+  - "M\xE1rcia Dalastra Laurenti"
+  - Claudio Nazaretian Rossi
+  - Juliana Peloi Vides
+  - Rafael Felipe da Costa Vieira
+  - Alexander Welker Biondo
+  - Mary Marcondes
+  publisher: Revista da Sociedade Brasileira de Medicina Tropical
+  date: '2014-01-01'
+  link: https://doi.org/gpgzfw
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13567-014-0115-6
+  title: 'Pre-parturition staphylococcal mastitis in primiparous replacement goats:
+    persistence over lactation and sources of infection'
+  authors:
+  - "Iacome SC J\xE1come"
+  - Francisca GC Sousa
+  - Candice MG De Leon
+  - Denis A Spricigo
+  - Mauro MS Saraiva
+  - Patricia EN Givisiez
+  - Wondwossen A Gebreyes
+  - Rafael FC Vieira
+  - Celso JB Oliveira
+  publisher: Veterinary Research
+  date: '2014-12-01'
+  link: https://doi.org/g46ccw
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2013v34n6supl2p3877
+  title: Immune response of calves immunized with cocktail of DNA vaccine encoding
+    complexed outer membrane proteins from Anaplasma marginale
+  authors:
+  - "Adriana Let\xEDcia Mendes Coelho"
+  - Rafael Felipe Da Costa Vieira
+  - Marcela Ribeiro Gasparini
+  - "Jo\xE3o Luis Garcia"
+  - Odilon Vidotto
+  - Marilda Carlos Vidotto
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2013-12-17'
+  link: https://doi.org/g46cc7
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.vetpar.2013.07.013
+  title: "Longitudinal analysis of serological tests officially adopted by the Brazilian\
+    \ Ministry of Health for the diagnosis of canine visceral leishmaniasis in dogs\
+    \ vaccinated with Leishmune\xAE"
+  authors:
+  - Mary Marcondes
+  - "Val\xE9ria Mar\xE7al F\xE9lix de Lima"
+  - "Maria de F\xE1tima Lereno de Ara\xFAjo"
+  - Roberto Mitsuyoshi Hiramoto
+  - "Jos\xE9 Eduardo Tolezano"
+  - Rafael F.C. Vieira
+  - Alexander W. Biondo
+  publisher: Veterinary Parasitology
+  date: '2013-11-01'
+  link: https://doi.org/f5jj9t
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s1984-29612013000300007
+  title: Molecular detection of Ehrlichia canisand Anaplasma platys in dogs in Southern
+    Brazil
+  authors:
+  - Camila Serina Lasta
+  - Andrea Pires dos Santos
+  - Joanne Belle Messick
+  - Simone Tostes Oliveira
+  - Alexander Welker Biondo
+  - Rafael Felipe da Costa Vieira
+  - Magnus Larruscaim Dalmolin
+  - "F\xE9lix Hilario Diaz Gonz\xE1lez"
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2013-09-01'
+  link: https://doi.org/g46cdc
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s0036-46652013000500007
+  title: 'SEROLOGICAL SURVEY OF Ehrlichia SPECIES IN DOGS, HORSES AND HUMANS: ZOONOTIC
+    SCENERY IN A RURAL SETTLEMENT FROM SOUTHERN BRAZIL'
+  authors:
+  - Rafael Felipe da Costa Vieira
+  - Thallitha Samih Wischral Jayme Vieira
+  - Denise do Amaral Gomes Nascimento
+  - Thiago F. Martins
+  - Felipe S. Krawczak
+  - Marcelo B. Labruna
+  - Ramaswamy Chandrashekar
+  - Mary Marcondes
+  - Alexander Welker Biondo
+  - Odilon Vidotto
+  publisher: "Revista do Instituto de Medicina Tropical de S\xE3o Paulo"
+  date: '2013-09-01'
+  link: https://doi.org/g46cdk
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s1984-29612013000200044
+  title: Immune response of calves inoculated with proteins ofAnaplasma marginale
+    bound to an immunostimulant complex
+  authors:
+  - Marcela Ribeiro Gasparini
+  - Rafael Felipe da Costa Vieira
+  - Denise Amaral Gomes do Nascimento
+  - "Jo\xE3o Luis Garcia"
+  - Odilon Vidotto
+  - Marilda Carlos Vidotto
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2013-06-01'
+  link: https://doi.org/g46cdm
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s1984-29612013000100019
+  title: Serosurvey of tick-borne pathogens in dogs from urban and rural areas from
+    Parana State, Brazil
+  authors:
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Rafael Felipe da Costa Vieira
+  - Denise Amaral Gomes do Nascimento
+  - "K\xE1tia Tamekuni"
+  - Roberta dos Santos Toledo
+  - Ramaswamy Chandrashekar
+  - Mary Marcondes
+  - Alexander Welker Biondo
+  - Odilon Vidotto
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2013-03-01'
+  link: https://doi.org/g46cdt
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ttbdis.2013.07.005
+  title: "Seroepidemiological survey of Theileria equi and Babesia caballi in horses\
+    \ from a rural and from urban areas of Paran\xE1 State, southern Brazil"
+  authors:
+  - "Th\xE1llitha S.W.J. Vieira"
+  - Rafael F.C. Vieira
+  - Mariane A.P. Finger
+  - Denise A.G. Nascimento
+  - "Patr\xEDcia M.L. Sicupira"
+  - Leonardo H. Dutra
+  - Ivan Deconto
+  - Ivan R. Barros-Filho
+  - Peterson T. Dornbusch
+  - Alexander W. Biondo
+  - Odilon Vidotto
+  publisher: Ticks and Tick-borne Diseases
+  date: '2013-12-01'
+  link: https://doi.org/f5k5d7
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2012v33n5p1887
+  title: The prevalence and spatial epidemiology of cysticercosis in slaughtered cattle
+    from Brazil
+  authors:
+  - Leonardo Hermes Dutra
+  - Aline Girotto
+  - Rafael Felipe da C Vieira
+  - Thallitha Samih W J Vieira
+  - Amanda Fonseca Zangirolamo
+  - Francisco Augusto C Marques
+  - Selwyn Arlington Headley
+  - Odilon Vidotto
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2012-10-30'
+  link: https://doi.org/g46cd6
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1638/2010-0108r.1
+  title: DETECTION OF RD<sup>RIO</sup>STRAIN OF<i>MYCOBACTERIUM TUBERCULOSIS</i>IN
+    TAPIRS (<i>TAPIRUS TERRESTRIS</i>) FROM A ZOO IN BRAZIL
+  authors:
+  - "Patr\xEDcia Sayuri Murakami"
+  - Fernanda Monego
+  - John L. Ho
+  - Andrea Gibson
+  - Manoel Lucas Javorouski
+  - Marcelo Bonat
+  - Oneida Lacerda
+  - Sonia Regina Brockelt
+  - Sonia Maria Biesdorf
+  - Sueli Massumi Nakatani
+  - Irina Nastassja Riediger
+  - "Renata Ben\xEDcio Neves Fuverki"
+  - "Jana\xEDna Socolovski Biava"
+  - Rafael Felipe Costa Vieira
+  - Andrea Pires do Santos
+  - Ivan Roque de Barros Filho
+  - Alexander Welker Biondo
+  publisher: Journal of Zoo and Wildlife Medicine
+  date: '2012-12-14'
+  link: https://doi.org/f4g433
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7589/0090-3558-47.4.1005
+  title: Prevalence and Molecular Characterization of Mycoplasma ovis in Selected
+    Free-Ranging Brazilian Deer Populations
+  authors:
+  - Ana Laura Grazziotin
+  - "Jos\xE9 Maur\xEDcio Barbanti Duarte"
+  - "Matias Pablo Juan Szab\xF3"
+  - Andrea Pires Santos
+  - "Ana Marcia Sa Guimar\xE3es"
+  - Ahmed Mohamed
+  - Rafael Felipe da Costa Vieira
+  - Ivan Roque de Barros Filho
+  - Alexander Welker Biondo
+  - Joanne Belle Messick
+  publisher: Journal of Wildlife Diseases
+  date: '2011-10-01'
+  link: https://doi.org/f3whwp
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.vetmic.2011.05.001
+  title: 'Mycoplasma ovis in captive cervids: Prevalence, molecular characterization
+    and phylogeny'
+  authors:
+  - Ana Laura Grazziotin
+  - Andrea Pires Santos
+  - Ana Marcia Sa Guimaraes
+  - Ahmed Mohamed
+  - Zalmir Silvino Cubas
+  - Marcos Jose de Oliveira
+  - Leonilda Correia dos Santos
+  - Wanderlei de Moraes
+  - Rafael Felipe da Costa Vieira
+  - Lucelia Donatti
+  - Ivan Roque de Barros Filho
+  - Alexander Welker Biondo
+  - Joanne Belle Messick
+  publisher: Veterinary Microbiology
+  date: '2011-09-01'
+  link: https://doi.org/bqvzpp
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.vetpar.2011.04.004
+  title: "Temporal IgG subclasses response in dogs following vaccination against Leishmania\
+    \ with Leishmune\xAE"
+  authors:
+  - Mary Marcondes
+  - Fabiana A. Ikeda
+  - Rafael F.C. Vieira
+  - Michael J. Day
+  - "Val\xE9ria M.F. Lima"
+  - "Cl\xE1udio N. Rossi"
+  - "S\xEDlvia H.V. Perri"
+  - Alexander W. Biondo
+  publisher: Veterinary Parasitology
+  date: '2011-09-01'
+  link: https://doi.org/cmzk86
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-2672.2011.05053.x
+  title: A quantitative TaqMan PCR assay for the detection of Mycoplasma suis
+  authors:
+  - A.M.S. Guimaraes
+  - R.F.C. Vieira
+  - R. Poletto
+  - R. Vemulapalli
+  - A.P. Santos
+  - W. de Moraes
+  - Z.S. Cubas
+  - L.C. Santos
+  - J.N. Marchant-Forde
+  - J. Timenetsky
+  - A.W. Biondo
+  - J.B. Messick
+  publisher: Journal of Applied Microbiology
+  date: '2011-06-14'
+  link: https://doi.org/bxhf7s
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s1984-29612011000100002
+  title: Ehrlichiosis in Brazil
+  authors:
+  - Rafael Felipe da Costa Vieira
+  - Alexander Welker Biondo
+  - "Ana Marcia S\xE1 Guimar\xE3es"
+  - Andrea Pires dos Santos
+  - Rodrigo Pires dos Santos
+  - Leonardo Hermes Dutra
+  - Pedro Paulo Vissotto de Paiva Diniz
+  - Helio Autran de Morais
+  - Joanne Belle Messick
+  - Marcelo Bahia Labruna
+  - Odilon Vidotto
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2011-03-01'
+  link: https://doi.org/fzd8zv
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/s1984-29612011000100016
+  title: Use of a Mycoplasma suis-PCR protocol for screening a population of captive
+    peccaries (Tayassu tajacu and Tayassu pecari)
+  authors:
+  - Rafael Felipe da Costa Vieira
+  - "Marcelo Beltr\xE3o Molento"
+  - "Ana Marcia S\xE1 Guimar\xE3es"
+  - Andrea Pires dos Santos
+  - Marcelo Bonat
+  - Manoel Lucas Javorouski
+  - Luciene Popp
+  - Leonilda Correia dos Santos
+  - Wanderlei Moraes
+  - Zalmir Silvino Cubas
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Odilon Vidotto
+  - Ivan Roque Barros Filho
+  - Alexander Welker Biondo
+  - Joanne Belle Messick
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2011-03-01'
+  link: https://doi.org/fzs85s
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.vetpar.2010.09.036
+  title: Validation of a Leishmania infantum ELISA rapid test for serological diagnosis
+    of Leishmania chagasi in dogs
+  authors:
+  - M. Marcondes
+  - A.W. Biondo
+  - A.A.D. Gomes
+  - A.R.S. Silva
+  - R.F.C. Vieira
+  - A.A. Camacho
+  - John Quinn
+  - R. Chandrashekar
+  publisher: Veterinary Parasitology
+  date: '2011-01-01'
+  link: https://doi.org/cqt337
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.vetmic.2009.06.018
+  title: Detection of a novel hemoplasma based on 16S rRNA gene DNA in captive and
+    free-ranging capybaras (Hydrochaeris hydrochaeris)
+  authors:
+  - Rafael F.C. Vieira
+  - Marcelo B. Molento
+  - Leonilda C. dos Santos
+  - Wanderlei Moraes
+  - Zalmir S. Cubas
+  - Andrea P. Santos
+  - Ana M.S. Guimaraes
+  - Ahmed Mohamed
+  - Ivan R. Barros Filho
+  - Alexander W. Biondo
+  - Joanne B. Messick
+  publisher: Veterinary Microbiology
+  date: '2009-11-01'
+  link: https://doi.org/b7qgj4
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4322/rbpv.01803001
+  title: A review of the occurrence of hemoplasmas (hemotrophic mycoplasmas) in Brazil
+  authors:
+  - A. W. Biondo
+  - A. P. dos Santos
+  - "A. M. S. Guimar\xE3es"
+  - R. F. da C. Vieira
+  - O. Vidotto
+  - D. de B. Macieira
+  - N. R. P. Almosny
+  - M. B. Molento
+  - J. Timenetsky
+  - H. A. de Morais
+  - "F. H. D. Gonz\xE1lez"
+  - J. B. Messick
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2009-01-01'
+  link: https://doi.org/b2vb5x
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jor.21027
+  title: 'Influence of the ratio of particulate autogenous bone graft/platelet-rich
+    plasma on bone healing in critical-size defects: A histologic and histometric
+    study in rat calvaria'
+  authors:
+  - Maria J. Nagata
+  - Michel Messora
+  - "Nat\uFFFD\uFFFDlia Pola"
+  - "Nat\uFFFD\uFFFDlia Campos"
+  - Rafael Vieira
+  - Luis A. Esper
+  - Michyele Sbrana
+  - Stephen Fucini
+  - Valdir Garcia
+  - Alvaro Bosco
+  publisher: Journal of Orthopaedic Research
+  date: '2009-01-01'
+  link: https://doi.org/bmwtmq
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5380/avs.v13i3.11983
+  title: "USO DA IMPED\xC2NCIA NA DETERMINA\xC7\xC3O DO VOLUME GLOBULAR DAS ESP\xC9\
+    CIES FELINA, EQUINA E BOVINA"
+  authors:
+  - R. F. C. VIEIRA
+  - M. A. VIOL
+  - T. S. BARBOSA
+  - C. S. SOEIRO
+  - S. R. M. BOMFIM
+  - P. C. CIARLINI
+  publisher: Archives of Veterinary Science
+  date: '2008-09-30'
+  link: https://doi.org/g46chf
+  orcid: 0000-0001-6613-0287
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
-    - Daniel S. Himmelstein
-    - Vincent Rubinetti
-    - David R. Slochower
-    - Dongbo Hu
-    - Venkat S. Malladi
-    - Casey S. Greene
-    - Anthony Gitter
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: "2020-12-04"
+  date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
-  description:
-    Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  - type: manubot
+    link: https://greenelab.github.io/meta-review
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org
   tags:
-    - open science
-    - collaboration
+  - open science
+  - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title:
-    Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-    - Gregory P. Way
-    - Michael Zietz
-    - Vincent Rubinetti
-    - Daniel S. Himmelstein
-    - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: "2019-03-11"
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
-    - David N. Nicholson
-    - Casey S. Greene
+  - David N. Nicholson
+  - Casey S. Greene
   publisher: Computational and Structural Biotechnology Journal
-  date: "2020-01-01"
+  date: '2020-01-01'
   link: https://doi.org/gg7m48
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   plugin: sources.py
@@ -240,15 +2096,15 @@
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
-    - Daniel S Himmelstein
-    - Ariel Rodriguez Romero
-    - Jacob G Levernier
-    - Thomas Anthony Munro
-    - Stephen Reid McLaughlin
-    - Bastian Greshake Tzovaras
-    - Casey S Greene
+  - Daniel S Himmelstein
+  - Ariel Rodriguez Romero
+  - Jacob G Levernier
+  - Thomas Anthony Munro
+  - Stephen Reid McLaughlin
+  - Bastian Greshake Tzovaras
+  - Casey S Greene
   publisher: eLife
-  date: "2018-03-01"
+  date: '2018-03-01'
   link: https://doi.org/ckcj
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py

@@ -1,9 +1,21 @@
 ---
+title: Ticks Make Us Tick
 ---
 
 # Ticks Make Us Tick
 
-Our research group studies ticks and vector-borne diseases.
+The ZVBD Lab at UNC Charlotte is a team of researchers focused on One Health studies, with a
+particular emphasis on vector-borne and zoonotic diseases. Our research particularly targets
+(re)emerging tick-borne pathogens and pathogen discovery. We aim to investigate transmission
+pathways by integrating genomics and eco-epidemiological data to identify root causes.
+Through applied education and prevention, training, research, and outreach, we promote One
+Health principles and work to advance disease prevention strategies.
+
+{%
+  include figure.html
+  image="images/group-photo.jpg"
+  width="100%"
+%}
 
 {% include section.html %}
 
@@ -11,7 +23,7 @@ Our research group studies ticks and vector-borne diseases.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Publication text.
 
 {%
   include button.html
@@ -34,7 +46,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Fieldwork text.
+
+{%
+  include button.html
+  link="projects"
+  text="See ticks in the wild"
+  icon="fa-solid
+  fa-arrow-right"
+  flip=true style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="projects"
+  title="Fieldwork and Ticks"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+Team description.
 
 {%
   include button.html

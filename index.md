@@ -86,7 +86,7 @@ Team description.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group-photo.jpg"
   link="team"
   title="Our Team"
   text=text

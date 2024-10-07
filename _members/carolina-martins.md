@@ -1,8 +1,8 @@
 ---
-name: Carolina Leite Martins, MSc
+name: Carolina Martins
 aliases:
   - C. L. Martins
-image: images/team/cleite.heic
+image: images/team/cleite.jpg
 role: phd
 links:
   email: cleitema@charlotte.edu

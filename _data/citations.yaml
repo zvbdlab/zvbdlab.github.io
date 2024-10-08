@@ -202,7 +202,7 @@
   publisher: 'Veterinary Parasitology: Regional Studies and Reports'
   date: '2023-06-01'
   link: https://doi.org/g46bxx
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.14202/vetworld.2023.1266-1276
@@ -238,7 +238,7 @@
   publisher: Brazilian Journal of Global Health
   date: '2023-02-27'
   link: https://doi.org/g46bzc
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41598-023-29090-1
@@ -275,7 +275,7 @@
   publisher: Acta Tropica
   date: '2022-12-01'
   link: https://doi.org/g46bzq
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.actatropica.2022.106697
@@ -297,7 +297,7 @@
   publisher: Acta Tropica
   date: '2023-01-01'
   link: https://doi.org/g46bzw
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/vetsci9080443
@@ -315,7 +315,7 @@
   publisher: Veterinary Sciences
   date: '2022-08-19'
   link: https://doi.org/g46bz4
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5433/1679-0359.2022v43n2p883
@@ -334,7 +334,7 @@
   publisher: "Semina: Ci\xEAncias Agr\xE1rias"
   date: '2022-02-25'
   link: https://doi.org/g46bz9
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5433/1679-0359.2022v43n2p889
@@ -354,7 +354,7 @@
   publisher: "Semina: Ci\xEAncias Agr\xE1rias"
   date: '2022-02-25'
   link: https://doi.org/g46b2h
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3201/eid2802.210705
@@ -376,7 +376,7 @@
   publisher: Emerging Infectious Diseases
   date: '2022-02-01'
   link: https://doi.org/g46b2q
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2022/3379804
@@ -416,7 +416,7 @@
   publisher: Systematic and Applied Acarology
   date: '2022-01-19'
   link: https://doi.org/g46b2z
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5433/1679-0359.2022v43n1p431
@@ -435,7 +435,7 @@
   publisher: "Semina: Ci\xEAncias Agr\xE1rias"
   date: '2022-01-10'
   link: https://doi.org/g46b26
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/MICROORGANISMS10101955
@@ -477,7 +477,7 @@
   publisher: "Semina: Ci\xEAncias Agr\xE1rias"
   date: '2022-12-22'
   link: https://doi.org/g46b3f
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/S13071-022-05444-Y
@@ -528,7 +528,7 @@
   publisher: Archives of Veterinary Science
   date: '2021-09-29'
   link: https://doi.org/g46b3t
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/tbed.14311
@@ -553,7 +553,7 @@
   publisher: Transboundary and Emerging Diseases
   date: '2021-09-12'
   link: https://doi.org/g46b33
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.meegid.2021.104988
@@ -577,7 +577,7 @@
   publisher: Infection, Genetics and Evolution
   date: '2021-09-01'
   link: https://doi.org/g46b34
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5433/1679-0359.2021v42n6p3527
@@ -596,7 +596,7 @@
   publisher: "Semina: Ci\xEAncias Agr\xE1rias"
   date: '2021-08-12'
   link: https://doi.org/g46b38
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3389/frph.2021.672885
@@ -675,7 +675,7 @@
   publisher: Ticks and Tick-borne Diseases
   date: '2021-01-01'
   link: https://doi.org/g46b4r
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1590/s1984-29612021072
@@ -754,7 +754,7 @@
   publisher: Ticks and Tick-borne Diseases
   date: '2020-11-01'
   link: https://doi.org/g46b5c
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/tbed.13767
@@ -794,7 +794,7 @@
   publisher: Transboundary and Emerging Diseases
   date: '2020-09-20'
   link: https://doi.org/g46b5p
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1177/1040638720943880
@@ -810,7 +810,7 @@
   publisher: Journal of Veterinary Diagnostic Investigation
   date: '2020-08-04'
   link: https://doi.org/g46b5v
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/tbed.13716
@@ -832,7 +832,7 @@
   publisher: Transboundary and Emerging Diseases
   date: '2020-07-20'
   link: https://doi.org/g46b53
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/tbed.13390
@@ -876,7 +876,7 @@
   publisher: Comparative Immunology, Microbiology and Infectious Diseases
   date: '2020-04-01'
   link: https://doi.org/grcvr2
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1089/vbz.2018.2411
@@ -922,7 +922,7 @@
   publisher: Archives of Veterinary Science
   date: '2020-12-22'
   link: https://doi.org/g46b6p
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1590/s1984-29612020062
@@ -942,7 +942,7 @@
   publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
   date: '2020-01-01'
   link: https://doi.org/g46b6v
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:31864389
@@ -978,7 +978,7 @@
   publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
   date: '2019-12-01'
   link: https://doi.org/g46b63
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.vetpar.2019.08.008
@@ -1004,7 +1004,7 @@
   publisher: Veterinary Parasitology
   date: '2019-09-01'
   link: https://doi.org/g46b67
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.22456/1679-9216.95720
@@ -1072,7 +1072,7 @@
   publisher: Parasites &amp; Vectors
   date: '2018-03-20'
   link: https://doi.org/g46b7t
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1590/s1984-296120180075
@@ -1089,7 +1089,7 @@
   publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
   date: '2018-11-08'
   link: https://doi.org/g46b7z
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0202140
@@ -1109,7 +1109,7 @@
   publisher: PLOS ONE
   date: '2018-08-13'
   link: https://doi.org/gd3gx8
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s13104-018-3638-5
@@ -1145,7 +1145,7 @@
   publisher: Emerging Infectious Diseases
   date: '2018-05-01'
   link: https://doi.org/g46b8d
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cimid.2017.12.003
@@ -1164,7 +1164,7 @@
   publisher: Comparative Immunology, Microbiology and Infectious Diseases
   date: '2018-02-01'
   link: https://doi.org/gc4vwd
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1590/1678-4162-9453
@@ -1186,7 +1186,7 @@
   publisher: "Arquivo Brasileiro de Medicina Veterin\xE1ria e Zootecnia"
   date: '2018-01-01'
   link: https://doi.org/g46b8n
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cimid.2017.06.004
@@ -1226,7 +1226,7 @@
   publisher: Veterinary World
   date: '2017-08-01'
   link: https://doi.org/g46b8z
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cimid.2017.05.002
@@ -1265,7 +1265,7 @@
   publisher: Comparative Immunology, Microbiology and Infectious Diseases
   date: '2017-04-01'
   link: https://doi.org/gbqws5
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1590/0037-8682-0315-2016
@@ -1321,7 +1321,7 @@
   publisher: Acta Parasitologica
   date: '2017-01-01'
   link: https://doi.org/f9m35z
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5380/avs.v22i4.56651
@@ -1354,7 +1354,7 @@
   publisher: Archives of Veterinary Science
   date: '2017-12-22'
   link: https://doi.org/g46b9v
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cimid.2017.08.004
@@ -1374,7 +1374,7 @@
   publisher: Comparative Immunology, Microbiology and Infectious Diseases
   date: '2017-12-01'
   link: https://doi.org/gcmkxq
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cimid.2016.07.002
@@ -1393,7 +1393,7 @@
   publisher: Comparative Immunology, Microbiology and Infectious Diseases
   date: '2016-10-01'
   link: https://doi.org/g46b93
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1590/s1984-29612016051
@@ -1432,7 +1432,7 @@
   publisher: Comparative Immunology, Microbiology and Infectious Diseases
   date: '2016-08-01'
   link: https://doi.org/f8xs8t
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.vetpar.2016.05.023
@@ -1575,7 +1575,7 @@
   publisher: "Semina: Ci\xEAncias Agr\xE1rias"
   date: '2015-02-27'
   link: https://doi.org/g46ccf
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5433/1679-0359.2015v36n6supl2p4361
@@ -1779,7 +1779,7 @@
   publisher: Ticks and Tick-borne Diseases
   date: '2013-12-01'
   link: https://doi.org/f5k5d7
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5433/1679-0359.2012v33n5p1887
@@ -1797,7 +1797,7 @@
   publisher: "Semina: Ci\xEAncias Agr\xE1rias"
   date: '2012-10-30'
   link: https://doi.org/g46cd6
-  orcid: 0000-0001-6613-0287
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1638/2010-0108r.1
@@ -2049,6 +2049,277 @@
   date: '2008-09-30'
   link: https://doi.org/g46chf
   orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ttbdis.2023.102179
+  title: Molecular detection and genetic characterization of Ehrlichia canis and Ehrlichia
+    sp. in neotropical primates from Brazil
+  authors:
+  - "St\xE9fhano Lu\xEDs C\xE2ndido"
+  - Nathalia de Assis Pereira
+  - Maria Julia de Oliveira Rosa Fonseca
+  - Richard de Campos Pacheco
+  - Thais Oliveira Morgado
+  - Edson Moleta Colodel
+  - Luciano Nakazato
+  - "Val\xE9ria Dutra"
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Daniel Moura de Aguiar
+  publisher: Ticks and Tick-borne Diseases
+  date: '2023-07-01'
+  link: https://doi.org/g7pktj
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/microorganisms10101955
+  title: "\u2018Candidatus Mycoplasma Haemoalbiventris\u2019 and Tick-Borne Pathogens\
+    \ in Black-Eared Opossum (Didelphis aurita) from Southeastern Brazil"
+  authors:
+  - "Andr\xE9s Maur\xEDcio Ortega Orozco"
+  - Lucas Drumond Bento
+  - Pollyanna Cordeiro Souto
+  - Fabricia Modolo Girardi
+  - "B\xE1rbara Cristina F\xE9lix Nogueira"
+  - Ricardo Seiti Yamatogi
+  - Artur Kanadani Campos
+  - Carolyn Cray
+  - Fabiano Montiani-Ferreira
+  - "Fl\xE1via Carolina Meira Collere"
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Rafael Felipe da Costa Vieira
+  - Leandro Abreu da Fonseca
+  publisher: Microorganisms
+  date: '2022-09-30'
+  link: https://doi.org/g46b29
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ttbdis.2021.101658
+  title: Detection of Ehrlichia sp. in Amblyomma sculptum parasitizing horses from
+    Brazilian Pantanal wetland
+  authors:
+  - "L\xEDvia Saab Muraro"
+  - Marcia Furlan Nogueira
+  - Alice Mamede Costa Marques Borges
+  - Aneliza de Oliveira Souza
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Daniel Moura de Aguiar
+  publisher: Ticks and Tick-borne Diseases
+  date: '2021-05-01'
+  link: https://doi.org/g7pktp
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31533/pubvet.v15n05a825.1-7
+  title: "Espessamento mioc\xE1rdico transit\xF3rio em gato positivo para Bartonella\
+    \ spp.: Relato de Caso"
+  authors:
+  - "Tha\xEDs Ribeiro Penna Paiva"
+  - "Anna Vict\xF3ria Antunes"
+  - Leonardo Bianchi de Oliveira
+  - Bruna Natali da Costa
+  - Simone Tostes de Oliveira Stedile
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - "Marlos Gon\xE7alves Sousa"
+  publisher: Pubvet
+  date: '2021-05-21'
+  link: https://doi.org/g7pktr
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/S1984-29612021072
+  title: "\u2018Candidatus Mycoplasma haemoalbiventris\u2019 and tick-borne pathogens\
+    \ screening in white-eared opossums (Didelphis albiventris) from Curitiba and\
+    \ Foz do Igua\xE7u Cities, Paran\xE1 State, southern Brazil"
+  authors:
+  - Renata Prestes Antonangelo de Oliveira
+  - "Fl\xE1via Carolina Meira Collere"
+  - Larissa Dantas Roeder Ferrari
+  - Vanessa dos Santos Coradi
+  - "Nath\xE1lia de Albuquerque Soares"
+  - "Andr\xE9 de Souza Leandro"
+  - Wagner Fabiano de Oliveira
+  - "Sandro Roberto Galv\xE3o"
+  - Rosinei Kafka
+  - Robson Michael Delai
+  - Rafaella Martini
+  - "Andr\xE9 Saldanha"
+  - Leonardo Pereira dos Santos
+  - Zalmir Silvino Cubas
+  - "Rog\xE9rio Ribas Lange"
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Rafael Felipe da Costa Vieira
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2021-01-01'
+  link: https://doi.org/g46b4v
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13071-019-3853-5
+  title: Parasitological, serological and molecular survey of camel trypanosomiasis
+    in Somalia
+  authors:
+  - Ahmed A. Hassan-Kadle
+  - Abdalla M. Ibrahim
+  - Hamisi S. Nyingilili
+  - Abdulkarim A. Yusuf
+  - "Th\xE1llitha S. W. J. Vieira"
+  - Rafael F. C. Vieira
+  publisher: Parasites &amp; Vectors
+  date: '2019-12-01'
+  link: https://doi.org/gjtqfw
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2016v37n4p2145
+  title: "Seasonal milk contamination by aflatoxin m1, organophosphates and carbamates\
+    \ in Paran\xE1 \u2013 Brazil"
+  authors:
+  - Carlos Eduardo Crispim de Oliveira Ramos
+  - Julio Cesar Damasceno
+  - Ricardo Kazama
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Maximiliane Alavarse Zambom
+  - Fernanda Gazar Ferreira
+  - Geraldo Tadeu dos Santos
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2016-08-30'
+  link: https://doi.org/g7pktw
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/S1984-29612016062
+  title: "Serosurvey for Leishmania spp., Toxoplasma gondii, Trypanosoma cruzi and\
+    \ Neospora caninum in neighborhood dogs in Curitiba-Paran\xE1, Brazil"
+  authors:
+  - Caroline Constantino
+  - Maysa Pellizzaro
+  - Edson Ferraz Evaristo de Paula
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - "Ana P\xE9rola Drulla Brand\xE3o"
+  - Fernando Ferreira
+  - Rafael Felipe da Costa Vieira
+  - Helio Langoni
+  - Alexander Welker Biondo
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2016-12-01'
+  link: https://doi.org/g46cbv
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/S1984-29612016085
+  title: Serosurvey of Borrelia in dogs, horses, and humans exposed to ticks in a
+    rural settlement of southern Brazil
+  authors:
+  - Denise Amaral Gomes Nascimento
+  - Rafael Felipe da Costa Vieira
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Roberta dos Santos Toledo
+  - Katia Tamekuni
+  - "Nelson Jess\xE9 Rodrigues dos Santos"
+  - "Daniela Dibb Gon\xE7alves"
+  - "Maria Lu\xEDsa Vieira"
+  - Alexander Welker Biondo
+  - Odilon Vidotto
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2016-12-08'
+  link: https://doi.org/gpgwr4
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2015v36n6Supl2p4361
+  title: Comparative study of two serological tests for detection of anti-Theileria
+    equi antibodies in horses
+  authors:
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - Jessica Damiana Marinho Valente
+  - Nayara Bezerra Silva
+  - "Patr\xEDcia Mara Lopes Sicupira"
+  - Ivan Roque Barros-Filho
+  - Alexander Welker Biondo
+  - Rafael Felipe da Costa Vieira
+  - Odilon Vidotto
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2015-12-16'
+  link: https://doi.org/g46ccj
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2015v36n6Supl2p4357
+  title: Equine infectious anemia in carthorses from urban areas of southern Brazil
+  authors:
+  - "Jo\xE3o Henrique Perotta"
+  - Eliana Monteforte Cassaro Villalobos
+  - Maria do Carmo C. de S. Hunold Lara
+  - Elenice Maria Sequetin Cunha
+  - Ivan Deconto
+  - Peterson Triches Dornbusch
+  - "Th\xE1llitha Samih Wischral Jayme Vieira"
+  - "Jos\xE9 Edivaldo Bonacim"
+  - Rafael Felipe da Costa Vieira
+  - Alexander Welker Biondo
+  - Ivan Roque Barros Filho
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2015-12-16'
+  link: https://doi.org/g46ccm
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/S0036-46652015000400014
+  title: MOLECULAR INVESTIGATION OF HEMOTROPIC MYCOPLASMAS IN HUMAN BEINGS, DOGS AND
+    HORSES IN A RURAL SETTLEMENT IN SOUTHERN BRAZIL
+  authors:
+  - Rafael Felipe da Costa VIEIRA
+  - Odilon VIDOTTO
+  - "Th\xE1llitha Samih Wischral Jayme VIEIRA"
+  - "Ana M\xE1rcia S\xE1 GUIMARAES"
+  - Andrea Pires dos SANTOS
+  - "Na\xEDla Cannes NASCIMENTO"
+  - Nelson Jesse Rodrigues dos SANTOS
+  - Thiago Fernandes MARTINS
+  - Marcelo Bahia LABRUNA
+  - Mary MARCONDES
+  - Alexander Welker BIONDO
+  - Joanne Belle MESSICK
+  publisher: "Revista do Instituto de Medicina Tropical de S\xE3o Paulo"
+  date: '2015-08-01'
+  link: https://doi.org/g46cb8
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/S0036-46652013000500007
+  title: 'SEROLOGICAL SURVEY OF Ehrlichia SPECIES IN DOGS, HORSES AND HUMANS: ZOONOTIC
+    SCENERY IN A RURAL SETTLEMENT FROM SOUTHERN BRAZIL'
+  authors:
+  - Rafael Felipe da Costa Vieira
+  - Thallitha Samih Wischral Jayme Vieira
+  - Denise do Amaral Gomes Nascimento
+  - Thiago F. Martins
+  - Felipe S. Krawczak
+  - Marcelo B. Labruna
+  - Ramaswamy Chandrashekar
+  - Mary Marcondes
+  - Alexander Welker Biondo
+  - Odilon Vidotto
+  publisher: "Revista do Instituto de Medicina Tropical de S\xE3o Paulo"
+  date: '2013-09-01'
+  link: https://doi.org/g46cdk
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5433/1679-0359.2012v33n2p791
+  title: "Detec\xE7\xE3o de res\xEDduos de antibi\xF3ticos em amostras de leite pasteurizado\
+    \ do Estado do Paran\xE1, Brasil"
+  authors:
+  - Thallitha Samih W J Vieira
+  - Milene Rochedo Ribeiro
+  - Mauricio Pinto Nunes
+  - Miguel Machinski Junior
+  - Daisy Pontes Netto
+  publisher: "Semina: Ci\xEAncias Agr\xE1rias"
+  date: '2012-05-15'
+  link: https://doi.org/g7pkt5
+  orcid: 0000-0002-8631-2712
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128

@@ -1,5 +1,5 @@
 ---
-name: Ana Clécia Silva, PhD
+name: Ana Silva, PhD
 aliases:
   - A. C. S. Silva
   - A. C. d. S. Silva

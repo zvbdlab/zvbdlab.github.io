@@ -7,8 +7,8 @@ aliases:
   - R. F. C. Vieira
   - Rafael F. C. Vieira
 links:
-  email: rvieira@charlotte.edu
   orcid: 0000-0001-6613-0287
+  email: rvieira@charlotte.edu
   google-scholar: tu5MMHQAAAAJ
 ---
 

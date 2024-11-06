@@ -34,6 +34,22 @@
   orcid: 0000-0001-6613-0287
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1590/s1984-29612024056
+  title: 'First report of the soft tick Ornithodoros mimon (Ixodida: Argasidae) in
+    Alagoas State, Northeastern Brazil'
+  authors:
+  - "Epit\xE1cio Correia de Farias J\xFAnior"
+  - "Ana Cec\xEDlia Pires de Azevedo Lopes"
+  - Glauber Meneses Barboza Oliveira
+  - Rafael Felipe da Costa Vieira
+  - Marcelo Bahia Labruna
+  - Jonatas Campos de Almeida
+  publisher: "Revista Brasileira de Parasitologia Veterin\xE1ria"
+  date: '2024-01-01'
+  link: https://doi.org/g8nmv5
+  orcid: 0000-0001-6613-0287
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.onehlt.2023.100666
   title: 'One Health in Somalia: Present status, opportunities, and challenges'
   authors:

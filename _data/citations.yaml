@@ -2067,6 +2067,28 @@
   orcid: 0000-0001-6613-0287
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1590/1678-5150-pvb-7437
+  title: Co-infection by tick-borne pathogens and Leishmania spp. in dogs with clinical
+    signs suggestive of leishmaniasis from an endemic area in northeastern Brazil
+  authors:
+  - Anna Maria C.F. Evaristo
+  - Paula Talita T. Santos
+  - "Felipe S. S\xE9"
+  - "Fl\xE1via Carolina M. Collere"
+  - Bianca B.F. Silva
+  - Ennya R.N. Cardoso
+  - Monica T.A. Kakimori
+  - "Th\xE1llitha Samih W.J. Vieira"
+  - Felipe S. Krawczak
+  - Jonas Moraes-Filho
+  - Rafael F.C. Vieira
+  - Mauricio C. Horta
+  publisher: "Pesquisa Veterin\xE1ria Brasileira"
+  date: '2024-01-01'
+  link: https://doi.org/g8q8vf
+  orcid: 0000-0002-8631-2712
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ttbdis.2023.102179
   title: Molecular detection and genetic characterization of Ehrlichia canis and Ehrlichia
     sp. in neotropical primates from Brazil
